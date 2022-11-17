@@ -8,7 +8,3 @@ Obiective:
                               ii.            Selectarea notiunilor la care se dau raspunsuri si a raspunsurilor aferente
 
                             iii.            Dezvoltarea aplicatiei propriu-zise
-SCHMIDT ANDREI
-DINU DIANA
-LASCU MIHNEA
-DIMA RAZVAN
