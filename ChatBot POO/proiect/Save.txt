@@ -1,0 +1,116 @@
+#include "mainwindow.h"
+#include "./ui_mainwindow.h"
+#include <stdio.h>
+#include <QFile>
+#include <QMessageBox>
+#include <QStandardItemModel>
+#include <QPushButton>
+#include <QLabel>
+#include <QRect>
+#include <QScreen>
+#include <QDesktopServices>
+#include <QChar>
+
+
+class Curs{
+public:
+    int numar;
+    QString link;
+};
+
+MainWindow::MainWindow(QWidget *parent)
+    : QMainWindow(parent)
+    , ui(new Ui::MainWindow)
+{
+    ui->setupUi(this);
+}
+
+MainWindow::~MainWindow()
+{
+    delete ui;
+}
+
+void deschidereDocument(const QString curs)
+{
+    QDesktopServices::openUrl(QUrl(curs, QUrl::TolerantMode));
+}
+
+
+void fisier();
+
+void MainWindow::on_pushButton_clicked()
+{
+    QFile file("C:/Users/andre/Desktop/ChatBot POO/proiect/resources/test.txt");
+    if(!file.open(QIODevice::ReadOnly)) {
+        QMessageBox::information(0, "error", file.errorString());
+    }
+
+    QTextStream in(&file);
+    Curs curs;
+    curs.numar = 0;
+    int pagina = 0, gasit = 0, poz = 0;
+    QString raspuns = {""}, text, line;
+    ui->label_2->setAlignment(Qt::AlignHCenter);
+    while(!in.atEnd()) {
+        line = in.readLine();
+       //qDebug() << line;
+       //qDebug() << "spatiu";
+        QString searchString(ui->lineEdit->text());
+        qDebug() << ui->lineEdit->text();
+        //verifica daca a gasit in fisier imputul userului
+        //tinem cont la ce curs am ajuns
+        curs.numar++;
+        if (line.contains(searchString, Qt::CaseSensitive)){
+           text = QString("Cursul: %1\n\n").arg(curs.numar);
+           raspuns = raspuns + text;
+           QPushButton *train_button = new QPushButton(this);
+
+           connect(train_button, SIGNAL(clicked()), SLOT(on_btn_clicked()));
+           train_button->setText("Deschide cursul");
+           train_button->move(600, 600);
+           train_button->show();
+           ui->label_2->setText(raspuns);
+           train_button->setGeometry(420,220+30*poz,100,20);
+           poz++;
+           gasit = 1;
+
+           qDebug() << "curs.link = " << curs.link;
+           //on_train_button_clicked(curs.link, curs.numar);
+        }
+        else{
+            if(gasit == 0){
+                ui->label_2->setText("Cuvintele cheie nu exista in cursuri");
+            }
+        }
+    }
+    file.close();
+
+    //pushButton->setVisible(false);
+    //qDebug() << "bubuie";//or true - later in the code
+}
+
+void MainWindow::on_train_button_clicked(QString &link, int numar){
+    qDebug("Asd");
+    link = "file:///C:/Users/andre/Desktop/ChatBot POO/proiect/resources/curs_" + QString::number(numar) + ".pdf";
+    deschidereDocument(link);
+}
+
+
+void MainWindow::on_lineEdit_cursorPositionChanged(int arg1, int arg2){
+
+}
+
+
+void MainWindow::on_textBrowser_2_anchorClicked(const QUrl &arg1){
+
+}
+
+
+void MainWindow::on_label_2_linkActivated(const QString &link){
+
+}
+
+
+void MainWindow::on_frame_customContextMenuRequested(const QPoint &pos){
+
+}

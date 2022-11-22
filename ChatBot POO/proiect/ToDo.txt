@@ -1,0 +1,11 @@
+1) Cautarea trebuie sa fie dinamica, adica sa facem steming la cuvantul cautat
+Exemplu searching = search
+Trebuie sa facem un cod care sa faca asta, mai multe detalii aici
+
+https://snowballstem.org/algorithms/romanian/stemmer.html
+
+2) De separat pe paragrafe si pe cursuri ( am facut eu la primele 2 cursuri, daca poate cineva sa faca pentru 3,4,5,6)
+
+4) Sa recomande cat de relevant este (tf-idf -> term frequency)
+Aici trebuie cautat un algoritm sau sa ne documentam si sa implementam
+
