@@ -1,0 +1,5166 @@
+CURS 1
+PAGINA 1
+MANAGEMENTUL
+PROIECTELOR 
+INFORMATICE
+PAGINA 2
+Curs 1
+NOTIUNI INTRODUCTIVE
+DESPRE MANAGEMENTUL
+DE PROIECT (MP) – 1
+PAGINA 3
+Operatii si proiecte
+Caracteristici comune:
+sunt realizate de catre oameni;
+sunt supuse constrangerilor unor
+resurse limitate;
+sunt planificate, executate si
+controlate.
+Diferente:
+a) Operatii (nivel operational): activitati
+primare, cu caracter de rutina.
+b) Proiecte (nivel tactic):
+In sens general: ansamblul
+operatiunilor desfasurate intr’o
+organizatie, in vederea realizarii unui
+scop.
+Proiectul presupune efectuarea unei
+activitati temporare in scopul realizarii
+unui produs / serviciu nou.
+PAGINA 4
+Operatii si proiecte
+c) Programe (nivel strategic): un grup de proiecte, conduse coordonat,
+pentru a obtine beneficii suplimentare.
+d) Subproiecte: componente ale unui proiect ce pot fi mai usor
+controlate
+PAGINA 5
+Modelul sistemic al MP
+PAGINA 6
+Caracteristicile unui proiect
+Temporalitate: sfarsitul unui proiect coincide cu indeplinirea
+scopurilor sale sau cu imposibilitatea indeplinirii sarcinilor acestuia.
+Unicitate: produsele sunt elaborate progresiv. Scopul produselor si
+scopul proiectului sunt diferite.
+Produsele sunt elaborate progresiv. Această caracteristică
+cheie se bazeaza pe faptul că iterațiile succesive ale proceselor au
+ca rezultat dezvoltarea unor soluții mai eficiente pentru progresul și
+dezvoltarea proiectelor.
+PAGINA 7
+Ce este MP?
+PMI – USA: Aplicarea cunostiintelor, tehnicilor, aptitudinilor si
+instrumentelor specifice in vederea proiectarii activitatilor ce sunt
+conforme cu asteptarile grupurilor de beneficiari (stakeholders).
+MP se refera la «balansarea» cererilor competitive de tipul:
+Scop, timp, cost si calitate
+Utilizatori cu diferite cerinte si asteptari
+Necesitati identificate (cerinte) si neidentificate (asteptari)
+PAGINA 8
+Ce este MP?
+APM –UK: Modalitatea cea mai eficienta de a introduce schimbari in
+strucrura unui sistem.
+Acest lucru se realizeaza prin:
+Definirea sarcinilor (obiectivelor) ce trebuiesc indeplinite, in
+termeni de timp, cost si alti parametri tehnici si de calitate
+Dezvoltarea unui plan de indeplinire a acestor obiective si
+urmarirea reperelor temporale aferente
+Utilizarea unor tehnici specifice in vederea monitorizarii evolutiei
+proiectului
+Folosirea unui personal specializat sub conducerea unui Director
+de proiect
+PAGINA 9
+Ce este MP?
+Proiectul reprezinta o secvență de activități unice, complexe și
+conectate având un obiectiv sau scop și care trebuie finalizat într-un
+anumit timp, în buget, și în conformitate cu caietul de sarcini.
+Managementul proiectului reprezinta arta planificării, controlului și
+executării unui proiect într-un mod care asigură livrarea cu succes a
+rezultatului dorit. Este utilizat pe scară largă în organizații ca un
+complex de instrumente pentru realizarea obiectivelor și obiectivelor
+strategice.
+PAGINA 10
+Tipuri de proiecte
+după relaţia cu programul
+integrate într-un program
+independente
+după amploarea obiectivelor
+de interes organizaţional
+de interes local
+de interes naţional
+de interes regional
+de interes internaţional
+după poziţia relativă în
+structură/organizaţie
+pure
+funcţionale
+matriceale
+după obiective
+sociale, artistice, culturale
+economice
+PAGINA 11
+Ciclul de viata al proiectelor
+PAGINA 12
+Ciclul de viata al proiectelor
+PMI (Project Management Institute) a definit aceste cinci grupuri de procese,
+sau faze, care se reunesc pentru a forma ciclul de viață al proiectului.
+Initierea proiectului
+Planificarea proiectului
+Execuția proiectului
+Monitorizarea și controlul proiectelor
+Închiderea Proiectului
+PAGINA 13
+Beneficiarii proiectului
+(stakeholder)
+Managerul de proiect
+(project manager)
+Clientii (customers)
+Organizatii implicate in
+realizarea proiectului
+(performing organizations)
+Sponsori (sponsors)
+Etc…
+Conform definiției date de PMI ( Project Management Institute ), stakeholder
+se referă la un individ, un grup, o organizație care pot fi afectați sau pot
+influența o decizie, activitate, rezultat al unui proiect.
+PAGINA 14
+Operații si strategii in proiecte
+Strategia unu – STOTT (Strategic, Tactical, Operațional, si
+Task/Tools)
+Presupune împărțirea un proiect din perspective diferite de
+planificare pentru a asigura o pregătire completă a proiectului, identificând
+toate elementele ce trebuie planificate de la nivelurile strategice, tactice,
+operaționale, taskuri / instrumente in cadrul proiectului.
+Primul constă în listarea elementelor care trebuie planificate la
+fiecare nivel de impact. Fiecare nivel de impact este o listă independentă. Al
+doilea este descompunerea fiecărui element în funcție de nivelul de impact.
+Pentru fiecare obiectiv strategic se vor identifica elementele la fiecare nivel
+TOTT. Aceasta este o repartizare a lucrărilor. A treia este de a enumera
+problemele in func
+ție de impact care necesita rezolvare prioritara.
+PAGINA 15
+Strategia trei
+extinse și contractate
+Strategia trei - Categorii de probleme
+Se creează registre diferite pentru presupuneri, definiții, informații,
+oportunități, riscuri, imperative, decizii și rezoluții. Organizați problemele
+curente, utilizați categoriile pentru a genera probleme suplimentare, apoi
+mențineți aceste registre pe întreaga perioada a proiectului.
+Exista din nou, două abordări: prima este clasificarea problemelor existente, a
+doua este realizarea unui registru pentru fiecare categorie. Categoriile pot fi
+extinse și contractate
+Strategia doi - timp, teritoriu, tehnologie
+Se caută evenimente cheie, provocări și puncte de decizie. Se parcurge natura si structura proiectului. În cele din urmă se urmărește proiectul dintro perspectiva tehnologica sau după tipurile de lucrări și subcontractanți. De
+fiecare dată când proiectul este traversat trebuie privit dintr-o alta
+perspectiva, probleme diferite, ducând astfel la realizarea diferitelor
+preocupări și a pașilor de planificare multipli.
+PAGINA 16
+Operații si strategii in proiecte
+Strategia patru – Metode
+Se caută metode cheie. Pur și simplu lucrați până când o singură metodă va
+integra resurse (materiale, supraveghere, echipaj, instrumente și
+echipamente, informații, durată, efort). Vor exista multiple metode de control
+într-un proiect ce trebuiesc examinate și planificate cu atenție. Mulți
+manageri de proiect nu ajung niciodată la acest nivel, lăsând metode în
+funcție de lucrători sau subcontractanți. Metodele pot realiza sau distruge
+orice proiect.
+Muncitorii nu au toate informațiile sau detalie. Aceștia pot îndeplini
+aceeași sarcină de mai multe ori pentru a elimina absolut riscul, în timp ce
+proiectul poate tolera riscul de a atinge viteza sau timpul de introducere pe
+piață.
+PAGINA 17
+Operații si strategii in proiecte
+Strategia cinci - Managementul resurselor
+Consolidarea resurselor și planificarea gestionarii pentru fiecare resursă
+(supraveghere, angajați, instrumente și echipamente, materiale, informații,
+durată, efort). Procesul pentru resurse este același.
+Trebuie luate in considerare toate motive si procesele necesare pentru a realiza
+un produs de calitate.
+Strategia șase - Planuri de control
+Se realizează planuri de control (rezultate, amploare, performanță, risc,
+fiabilitate, relații, învățare, timp, cost și calitate).Planurile trebuie sa fie bine
+structurate luând in considerare si posibilele inconveniente ce vor apărea
+pe parcurs. Cel mai important este produsul final astfel planul trebuie sa ia
+in considerare fiabilitatea cat si încadrarea in timpii disponibili si costul
+final.
+PAGINA 18
+Operații si strategii in proiecte
+Strategia sapte - Planificarea scenariului
+Realizarea multiplelor scenarii posibile ajuta la realizarea unor decizii ce cresc
+rata de succes. Se fixează intervale de timp cu scopul de a verifica statusul
+proiectului . Aceasta abordare ajuta la gestionarea problemelor ce pot apărea
+pe parcurs asigurând dezvoltarea proiectului in mod constant.
+Strategia opt - Management de proiect
+Se creează politicii de proiect, a proceselor de management de
+proiect și a procedurilor proiectului. Obiectivul principal este activitatea
+proiectului: planificarea, estimarea, controlul și procurarea acestor activități
+.Un proiect trebuie sa fie însăși un plan strategic. Valorile și etica sunt
+cruciale pentru un proiect.
+PAGINA 19
+Faze de dezvoltare
+Formare
+: membrii grupului apar ca un set de individualitati (ce nu
+formeaza inca un grup), fiecare incercand sa inteleaga scopul final
+al proiectului si modalitatile de integrare in grup.
+Evolutia taskului:
+Evolutiai nterpersonala:
+Stil de conducere: autoritar
+PAGINA 20
+Faze de dezvoltare (2)
+Implicare
+: membrii grupului s’au acomodat unii cu altii si incep sa
+inteleaga mai bine scopul final al proiectului. In aceasta faza este
+posibila aparitia unor conflicte intre membri.
+Evolutia taskului
+Evolutia interpersonala
+Stil de conducere: intr’ajutorare
+PAGINA 21
+Faze de dezvoltare (3)
+Normare: grupul continua sa exploreze taskurile, culegand si
+interpretand in acelasi timp informatii referitoare la consensul
+normelor de evolutie interpersonala.
+Evolutia taskului
+Evolutiai nterpersonala
+Stil de conducere: stilul participativ
+PAGINA 22
+Faze de dezvoltare (4)
+Realizare
+: este stabilita versiunea finala a proiectului si sunt fixate
+metodele de realizare a acesteia.
+Evolutia taskului
+Evolutia interpersonala
+Stil de conducere: prin delegare
+PAGINA 23
+Faze de dezvoltare (5)
+Finalizare
+: fiecare membru al grupului isi incheie activitatea si
+grupul “moare”.
+Evolutia taskului
+Evolutia interpersonala
+Stil de conducere: autoritar
+Managementul de proiect
+tradițional
+Prezintă specificație amănunțită
+Specificația nu este schimbată pe parcursul proiectului
+Urmează un plan bine stabilit
+PAGINA 24
+Managementul de proiect
+extrem
+Este dezvoltat în jurul ideii de schimbare
+Reprezintă un tip de management agil conținând abordări de tipul:
+Extreme programming
+SCRUM
+Feature Driven Development
+PAGINA 25
+Managementul de proiect adaptiv
+ A fost conceput pentru proiectele ce se află între extremități
+ Proiectele urmează un plan realizat incremental
+
+CURS2
+PAGINA 1
+Management
+de Proiect
+PAGINA 2
+Curs 2
+NOTIUNI INTRODUCTIVE
+DESPRE MANAGEMENTUL
+DE PROIECT (MP) – 2
+PAGINA 3
+Cerintele unui lider
+Directorul de proiect - persoana responsabilă
+de coordonarea tuturor activităților proiectului,
+conducând echipa spre împlinirea obiectivelor
+setate.
+Conducerea: realizarea unor rezultate cheie
+asteptate de beneficiari
+Stabilirea directiei generale de evolutie a
+proiectului
+Alinierea personalului la ideile liderului
+Motivarea si inspirarea personalului
+Comunicarea: cuprinde schimbul de informatii:
+Scris / oral
+Intern (in cadrul proiectului), extern (cu
+beneficiarii, public, media)
+Formala (raport, briefing) si informal
+(memo, conversatii ad-hoc)
+Orizontal (cu partenerii din cadrul
+organizatiei), vertical (sus / jos in
+organizatie)
+PAGINA 4
+Cerintele unui lider
+Negocierea: comunicarea cu ceilalti in vederea stabilirii unor termeni care
+sa conduca la o intelegere. Scopurile negocierii:
+Scop, cost, agenda de realizarea obiectivelor
+Termenii si conditiile contractului
+Evaluare
+Resurse
+Rezolvarea problemelor: definirea problemelor si implementarea
+deciziei; se refera la probleme existente si nu la cele potentiale (
+managementul de risc). Definirea problemelor cuprinde stabilirea cauzelor si
+efectelor. Decizia poate fi «corecta» dar nu optima.
+PAGINA 5
+Cerintele unui lider
+Documentarea
+unui raport de
+închidere a
+proiectului
+Derularea
+tuturor
+acțiunilor
+necesare pentru
+închiderea
+proiectului
+Încheiere
+Controlul
+cheltuielilor
+pentru a asigura
+încadrarea
+proiectului în
+bugetul aprobat
+Rezolvarea
+problemelor
+care afectează
+în prezent
+proiectul.
+Implementare
+Crearea unui
+calendar al
+proiectului ce
+include activități
+și sarcini
+Managementul
+costurilor pe tot
+parcursul
+proiectului
+Planificare
+Documentarea
+beneficiilor, a
+costurile și a
+opțiunilor
+disponibile întrun plan afaceri
+Recrutarea
+membrilor
+echipei de
+proiect calificați
+pentru rolurilor
+atribuite
+Inițiere
+PAGINA 6
+Managementul general al
+proiectelor
+1. Contabilitate/ financiar, vanzari si marketing, dezvoltare /
+cercetare, productie si distributie
+2. Planificare strategica, planificare tactica, planificare
+operationala
+3. Structuri organizationale, dezvoltare organizationala,
+administrare de personal, compensari, beneficii, etc
+4. Managementul relatiilor de lucru (motivare, delegare,
+supervizare, constructia grupurilor de lucru, managementul
+conflictelor, etc)
+5. Managementul individual (managementul timpului de
+lucru personal, managementul de stress, etc)
+PAGINA 7
+Cultură organizațională - climatul și practicile pe care
+organizațiile le dezvoltă in interacțiunea cu oamenii
+Valori Misiune
+Regulamente,
+metode și
+proceduri
+Sisteme de
+motivare Etică a muncii Relații de autoritate
+Cultură organizațională
+PAGINA 8
+Management organizațional - gestionarea întregului sistem de
+management, stabilind valorile și regulile de organizare și proiectare a
+structurii organizatorice, managementul resurselor și cel al proceselor
+Management organizațional de proiect ( implementarea
+strategiilor unei organizații în cadrul proiectului )
+Management
+organizațional
+Management
+de proiect
+Management organizațional
+PAGINA 9
+Stakeholderi
+Conform definiției date de PMI ( Project
+Management Institute), stakeholder se
+referă la un individ, un grup, o organizație
+care pot fi afectați sau pot influența o
+decizie, activitate, rezultat al unui proiect.
+PAGINA 10
+Stakeholderi
+PAGINA 11
+Metodologii de lucru – Waterfall
+Dezvoltarea software-ului în unitățile mici cu testare funcțională: prezintă
+dezvoltarea unui program ca o succesiune de faze ce se înlănțuie într-o derulare
+liniară, de la analiza cerințelor și până la livrarea produsului către client.
+Modelul cascadă ilustrează procesul de dezvoltare software într-un flux linear /
+secvențial. Fiecare fază trebuie finalizată înainte ca următoarea fază să poată începe
+și nu există suprapuneri în faze.
+Toate cerințele posibile sunt înregistrate în documentele privind cerințele produsului.
+Fiecare fază corespunde unei activități și trebuie să se termine la o anumită dată
+prin producerea anumitor documente sau programe.
+PAGINA 12
+Metodologii de lucru – Waterfall
+Cand se foloseste?
+Cerințele sunt foarte bine
+documentate, clare si fixe;
+Definiția produsului este
+stabilă;
+Tehnologia este înțeleasă și
+nu este dinamică;
+Nu există cerințe ambigue;
+Aplicația nu este complicata
+Când există un flux accentuat
+al personalului firmei;
+Resurse suficiente.
+PAGINA 13
+Metodologii de lucru-Modelul V
+V-Model reprezinta un ciclu de
+viată de dezvoltare software care
+subliniază conceptul de „verificare
+și validare”. In fiecare etapă de
+dezvoltare a modelului V, va exista
+o fază de testare corespunzătoare
+care va valida un astfel de proces.
+Fazele de testare vor fi planificate
+în paralel cu dezvoltarea etapei pe
+care se presupune că vor fi testate
+De asemenea, este considerat a fi
+o formă extinsă a modelului de
+cascadă, deoarece un pas nu
+poate fi făcut fără finalizarea unui
+proces anterior.
+PAGINA 14
+Metodologii de lucru – Agile
+Modelul Agile se concentrează pe adaptabilitatea procesului și satisfacția
+clienților prin livrarea rapidă a produselor software funcționale. Metodele Agile
+împart produsul în mici versiuni incrementale. Aceste versiuni sunt furnizate în
+iterații.
+PAGINA 15
+Metodologii de lucru – Model
+Spirala
+Un „model spiralat” este un tip
+de model iterativ în care
+iterațiile individuale din
+modelul spiralat iau forma
+unor mini-cascade.
+Modelul în spirală oferă
+suport pentru gestionarea
+riscurilor.
+Un risc este orice situație
+adversă care ar putea afecta
+realizarea cu succes a unui
+proiect.
+Cea mai importantă
+caracteristică a modelului
+spiralat o reprezinta
+gestionarea acestor riscuri
+necunoscute după începerea
+proiectului.
+PAGINA 16
+Metodologii de lucru – Model
+Spirala
+Cand se foloseste?
+Atunci când există o constrângere
+bugetară și evaluarea riscurilor este
+importantă.
+Pentru proiecte cu risc mediu spre mare.
+Angajamentul pe termen lung al
+proiectului din cauza potențialelor
+modificări ale priorităților economice pe
+măsură ce cerințele se schimbă în timp.
+Clientul nu este sigur de cerințele sale,
+ceea ce este de obicei cazul.
+Cerințele sunt complexe și necesită
+evaluare pentru a obține claritate.
+O nouă linie de produse ar trebui lansată
+în etape pentru a obține suficient feedback
+de la clienti.
+Se așteaptă modificări semnificative ale
+produsului în timpul ciclului de dezvoltare.
+PAGINA 17
+Dimensiunile unui proiect
+Cele 5 dimensiuni ale unui proiect
+PAGINA 18
+Cele 5 dimensiuni ale unui proiect
+scop
+calitate
+cost
+risc
+PAGINA  19
+Scopul trebuie cât mai bine definit și
+detaliat astfel încât echipa să nu devieze
+de la acesta.
+Timpul reprezintă resursa cea
+mai importantă, deoarece
+aceasta nu poate fi înlocuită.
+Orice deviere de la scop aduce
+timp irosit, iar acest lucru
+trebuie să fie acoperit în cadrul
+managementului de risc.
+Cele 5 dimensiuni: scop,
+calitate, risc, timp, cost
+• Motivul principal al proiectului
+• Bine definit, concret, concis
+• Management de scop
+• Cea mai importantă resursă
+• Managementul timpului
+PAGINA 20
+Calitatea reprezinta ceea ce
+clientul sau stakeholderii au
+nevoie astfel încât proiectul să
+fie considerat un succes. La
+bază, calitatea proiectului este
+reprezentată de posibilitatea
+utilizatorului de a folosi acel
+produs.
+Cele 5 dimensiuni: scop,
+calitate, risc, timp, cost
+• Motivul principal al proiectului
+• Bine definit, concret, concis
+• Management de scop
+PAGINA 21
+Managementul riscului
+reprezintă un proces continuu,
+proactiv şi sistematic de
+identificare, evaluare şi
+gestionare a riscurilor, realizat la
+nivelul fiecărei entităţi cu scopul
+de a furniza asigurări rezonabile
+în ceea ce privește atingerea
+obiectivelor.
+Costul este o componentă
+primordială deoarece scopul
+principal al proiectului este
+generarea de profit.
+Cele 5 dimensiuni: scop,
+calitate, risc, timp, cost
+• Eveniment posibil
+• Componentele riscului
+• Managementul riscului
+• Definește bugetul și resursele financiare
+• Managementul costului
+PAGINA 22
+Etapele unui proiect
+PAGINA 23
+Procese
+Definitie: o serie de actiuni ce se finalizeaza
+printr-un anumit rezultat
+Tipuri:
+Procese dedicate managementului de proiect
+(Project Management Processes): aceste proiecte
+sunt dedicate structurarii si organizarii activitatilor in
+cadrul unui proiect.
+Procese dedicate activitatii de productie
+(Product-oriented Processes): sunt acele procese
+dedicate realizarii produselor din cadrul proiectului.
+PAGINA 24
+Procese
+PAGINA 25
+Procese
+PAGINA 26
+Proces de initiere
+Are rolul de initializare, prin recunoasterea inceputului de faza / proiect;
+Rezultatul procesului de inițiere o
+reprezintă definirea mai multor aspecte
+referitoare la proiectul in cauza, fie in
+detaliu, fie într-o forma compacta, dar care
+sa conțină:
+• de ce exista acest proiect,
+• stabilirea obiectivelor proiectului,
+• stabilirea indicatorilor de
+performanta,
+• analizarea restricțiilor,
+• analizarea responsabilităților.
+PAGINA 27
+Proces de initiere
+PAGINA 28
+Proces de planificare
+Procesul de planificare are drept rezultat
+schița de proiect ce înglobează toate
+deciziile cu privire la abordarea proiectului.
+Schița de proiect (project charter) este un
+document care autorizează in mod formal
+proiectul.
+Componenta de planificare nu reprezinta
+un proces ce începe si se termina neapărat
+pana la inceputul urmatorului process;
+procesul de planificare poate fi activ pana
+la finalizarea proiectului, astfel încât sa
+răspundă la necesitățile si problemele ce
+pot sa apară pe parcurs.
+PAGINA 29
+Planul de management
+Planul de management realizat in
+cadrul procesului de planificare
+înglobează o serie de documente
+organizatorice:
+Rezumatul planului
+Descrierea proiectului
+Planul de gestionare a timpului
+Planul de gestionare al
+cheltuielilor
+Planul de calitate
+Planul de resurse umane
+Planul de management al
+schimbării
+Planul de management al riscului
+Planul de gestionare al
+furnizorilor
+PAGINA 30
+Relatiile dintre procese in cadrul
+planificarii
+PAGINA 31
+Procesul de executie
+Procesele de executie includ coordonarea oamenilor si a altor resurse
+pentru a executa diferitele planuri si pentru a produce livrabilele
+proiectului sau fazei.
+Pe parcursul acestui proces, sunt efectuate urmatoarele actiuni:
+Realizarea activitatilor necesare pentru indeplinirea obiectivelor proiectului
+Obtinerea si gestionarea ofertelor si propunerilor dupa cu
+m este necesar
+Coordonarea echipei si resurselor
+Monitorizarea performantelor echipei
+Colectarea si analizarea datelor de performanta pentru rapoarte de stare
+Gestionarea riscurilor
+Efectuarea controlului schimbarilor si implementarea modificarilor aprobate
+Dirijarea si gestionarea executiei proiectului
+Colectarea si documentarea lectiilor invatate
+Efectuarea de activitati de asigurare a calitatii
+PAGINA 32
+Managementul
+problemelor
+Managementul
+achizițiilor
+Managementul costurilor
+Management de
+risc
+Managementul schimbării
+Managementul
+comunicării
+MONITORIZARE
+CONTROL
+Managementul calității
+Managementul
+acceptării
+Managementul timpului
+Procesul de executie
+PAGINA 33
+Relatiile dintre procese in
+cadrul executiei
+PAGINA 34
+Procesul de monitorizare &
+control
+Procesul de monitorizare si control presupune:
+Urmarirea, revizuirea si reglementarea progresului proiectului
+Raportarea starii su masurarea progresului
+Efectuarea rapoartelor despre domeniul de aplicare, program,
+cost, resurse, calitate si riscuri
+Controlarea modificarii proiectului si a documentelor aferente
+Includerea controlului domeniului, programului, costurilor si
+riscurilor
+Inregistrarea rezultatelor controlului calitatii
+Implementarea planului si actunii de tratare a riscurilor
+Administrarea furnizorilor.
+PAGINA 35
+Relatiile dintre procese in cadrul
+monitorizarii / controlului
+PAGINA 36
+Proces de inchidere
+Închiderea
+financiară
+Arhivare
+documente
+Eliberarea
+livrabilelor
+Documentație
+proiect
+PAGINA 37
+Proces de inchidere
+Asigura formalismul de inchidere a proiectului / fazei prin acceptarea
+rezultatelor obtinute.
+Se are in vedere predarea rezultatelor catre beneficiar cat si
+incheierea administrativa a proiectului.
+Postanaliza asigura un standard ridicat de calitate cu costuri reduse
+pentru proiectele ce se vor derula in viitor (implementarea “bunelor
+practici”)
+PAGINA 38
+Proces de inchidere
+Procesul de inchidere presupune:
+Obtinerea aprobarii inchiderii proiectului de catre beneficiar
+Eliberarea oamenilor si a resurselor
+Raportarea performantelor echipei si a lectiilor invatate
+Actualizarea sau finalizarea documentelor, si rezultatelor
+Finalizarea achizitiilor
+Efectuarea activitatii de asigurare a calitatii
+Stocarea sau arhivarea informatiilor
+PAGINA 39
+Esecul proiectelor
+Cauze:
+Planificarea initiala slaba, bazata pe o
+prognoza gresita a pietei;
+Gasirea unei alternative mai bune de
+implementare
+Schimbari intervenite in strategia si
+interesele companiei
+Depasirea timpului prevazut pentru
+implementare
+Depasirea bugetului alocat sau
+reorientarea resurselor catre alte
+prioritati
+Oamenii-cheie parasesc proiectul
+Complexitate mare a problemei in
+raport cu resursele alocate
+PAGINA 40
+Suprapunerea proceselor
+Suprapunerea diverselor tipuri de procese dealungul unei faze
+PAGINA 41
+Interactiunea dintre faze
+PAGINA 42
+Concluzii
+Indeplinirea cu succes a unui proiect se bazeaza pe toti
+cei implicati activ, implicit pe managerul de proiect. Un
+bun manager de proiect este capabil sa ofere echipei o
+viziune, sa creeze o legatura stransa intre membrii
+echipei, sa inteleaga procesul si sa delege corect sarcinile
+Succesul unui proiect poate fi evidentiat utilizand
+constrangerea dintre 5 dimensiuni (scop, timp, calitate,
+cost, risc). Modificarea oricareia dintre acestea atrage
+modificarea celorlalte
+Delimitarea clară a fazelor din care este compus ciclul de
+viață al proiectului reduce gradul de nesiguranță și
+permite un control mai puternic asupra derulării
+proiectului.
+Cultura organizațională și managementul organizațional
+joacă un rol cheie în ciclul de viață al unui proiect, prin
+dictarea comportamentului și al practicilor efectuate pe
+parcursul acestuia.
+Concluzii
+
+CURS 3
+PAGINA 1
+MANAGEMENT DE PROIECT
+PAGINA 2
+Curs 3
+Managementul de scop
+PAGINA 3
+Modelul sistemic
+PAGINA 4
+Elemente cheie in
+structurarea unui proiect
+Fiecare proiect este constrâns în diferite moduri de scopul, durata şi costul
+obiectivelor. Aceste limitări sunt denumite în managementul proiectului ca fiind o
+triplă constrângere.
+Pentru a crea un proiect de succes, scopul, durata şi costul trebuie luate toate în
+considerare şi este de datoria managerului de proiect să balanseze aceste trei
+obiective competitive.
+PAGINA 5
+Ce reprezinta scopul unui
+proiect
+?
+Scopul poate avea doua semnificatii:
+-Scopul de produs ce reprezinta functiile si atributele ce
+caracterizeaza un produs sau un serviciu.
+-Scopul (propriu-zis al) proiectului reprezinta resursele necesare
+(umane sau tehnologice) pentru a crea un material finit ce
+corespunde cu scopul de produs. Scopul unui proiect este creat din
+functionalitatile sau specificatiile necesare crearii produsului.
+PAGINA 6
+Ce reprezinta scopul unui
+proiect
+?
+Caracteristici
+Descrie proiectul în termeni obiectivi și lipsiți de ambiguitate
+Identifică produse, servicii și alte elemente livrabile
+Definește elementele din afara domeniului de aplicabilitate pentru a elimina
+neînțelegerile
+Oferă o viziune comună
+Definește criterii pentru măsurarea succesului
+Controlează evoluția scopului, ceea ce reduce impactul asupra organizării și a
+resurselor
+PAGINA 7
+Etape in definirea scopului
+unui proiect
+Obiectivele proiectului
+Sunt obiectivele generale care
+vor satisface nevoile clienților
+Livrabilele proiectului
+Sunt rezultatele așteptate ale
+proiectului
+Problemele sau riscurile
+cunoscute
+Sunt potențialele probleme și
+riscuri ale proiectului
+Revizuirea și aprobarea
+părților interesate
+Oficializează întregul scop al
+proiectului
+Reperele scopului
+proiectului
+Sunt evenimente cu durată
+zero, care marchează
+progresul pe toată durata
+proiectului
+Ipotezele și excluderile
+Sunt responsabilitățile și
+deciziile utilizate pentru a
+clarifica scopul proiectului
+Cerințele de nivel înalt
+Sunt specificațiile pentru
+proiect descrise la nivel
+rezumat și includ de obicei o
+descriere tehnică
+PAGINA 8
+Elemente cheie in definirea
+scopului unui proiect
+Următoarele trei elemente reprezinta componentele de bază ce trebuie luate în considerare
+în definirea scopului unui proiect:
+Anajații –Cine va duce la îndeplinire toate task-urile? Acești oameni sunt deja disponibili în
+contextual organizației sau se va impune angajarea de personal adițional? Angajații actuali
+au timpul necesar și valabilitatea de a lucra în cadrul acestui proiect în mod special?
+Bugetul – Bugetul reprezinta un punct cheie în stabilirea unui scop realist si realizabil,
+întrucât limitarea materială impune multiple restricții în atingerea unor scopuri ce țin atât de
+produsul finit, dar și de timpul necesar dezvoltarii porduselor, de calitatea acestora etc.
+Timpul – Cu cât un proiect necesită mai mult timp pentru a fi finalizat, cu atât mai mult va
+costa acesta pentru organizație. Având în vedere faptul că timpul și profitul sunt direct
+conectate, estimarea timpului necesar pentru atingerea scopului final al proiectului este
+esențială pentru controlul costurilor si maximizarea profitului.
+PAGINA 9
+Ce reprezinta un obiectiv
+?
+ Obiectivul unui proiect reprezinta un enunt ce se refera la
+rezultatul asteptat prin aplicarea planului proiectului.
+ Obiectivele unui proiect trebuie sa respecte indicatorii
+SMART ( sa descrie ceea ce se urmareste a fi realizat, sa fie
+exprimat folosind durata de timp, sa exprime caracteristicile
+urmarite si pe cat posibil sa fie masurabil)
+PAGINA 10
+Ce reprezinta un obiectiv
+?
+
+01. Specifice
+S
+02. Măsurabile
+M
+03. Acceptate
+A
+04. Realiste
+R
+05. Timp precizat
+T
+01.
+02.
+03.
+04.
+05.
+Definirea obiectivelor proiectului capătă o importanță
+majoră, deoarece în funcţie de acestea ne stabilim
+strategia şi metodele folosite. Conform teoriei
+manageriale, obiectivele trebuie să fie de tipul:
+SMART.
+Obiective:
+Sunt acele scopuri cuantificabile ce trebuie
+atinse pentru ca proiectul să poată fi considerat un
+succes. Obiectivele trebuie să fie, minimum,
+referitoare la costuri, planificare şi calitate.
+PAGINA 11
+Caracteristici
+Obiectivele descriu beneficiile pe care o
+organizație se așteaptă să le obțină prin investiția făcută în proiect. În acest sens nu trebuie să existe
+o confuzie între obiectivele proiectului și produsele
+finale sau livrabilele.
+Obiectivele trebuie să fie cuantificabile, realizabile
+și antrenante. Criteriile cuantificabile includ:
+program, organizare, costuri, performanță și măsuri
+de calitate.
+Obiectivele sunt utilizate pentru a evalua impactul
+schimbărilor asupra implementarii proiectului, i.e.
+dacă o modificare va avea un impact negativ asupra
+unui obiectiv al proiectului, aceasta ar trebui
+respinsă.
+Obiectivele proiectului sunt verificate în etapa de
+încheiere pentru a evalua dacă echipa a livrat ceea
+ce a fost convenit.
+PAGINA 12
+Scopul proiectului vs. Obiective
+generale vs. Obiective specifice
+Scopul proiectului reprezinta rezultatul final si ideal pe care
+proiectul doreste sa-l atinga.
+Obiectivele generale au in vedere impactul global la care
+proiectul trebuie sa contribuie.
+Obiectivele specifice prevad impactul produsului final asupra
+beneficiarului.
+PAGINA 13
+Scopul proiectului vs. Obiective
+generale vs. Obiective specifice
+Obiective generale vs Obiective specifice
+Scopul proiectului
+Obiectivul imediat
+(specific) are în vedere
+impactul pozitiv al proiectului
+asupra beneficiarului.
+Sunt derivate din obiectivele
+generale și se stabilesc la
+nivelul fiecărui compartiment
+din cadrul entității publice.
+Acestea descompun
+obiectivul general în părți
+mai mici, conectate logic,
+care abordează sistematic
+diferitele aspecte ale
+problemei.
+Scopul proiectului este finalitatea urmărită de un proiect, o
+declarație de intenție generală, care dă o măsură a
+rezultatului ideal al proiectului.
+Una dintre principalele diferențe care pot fi văzute între scop
+și obiective este în factorul timp. Oamenii încearcă să își
+atingă obiectivele stabilind termene. Pe de altă parte,
+termenele nu sunt aplicabile într-un scop.
+Obiectivul general al
+proiectului are în vedere
+orientarea globală la a
+cărei realizare trebuie să
+contribuie proiectul.
+Obiectivele generale sunt
+exprimate la nivelul
+entității publice.
+Acestea prezintă
+elementele care așteaptă
+să fie realizate în termeni
+cât mai generali, sub o
+formă concisă, clară.
+PAGINA 14
+Procesul de initiere – intrari (1)
+Descrierea produsului: contine toate elementele
+descriptive in baza carora produsul / serviciul asociat proiectului va fi realizat. Detaliile vor fi mai putine in faza
+de inceput si mai multe odata cu evolutia proiectului. Descrierea produsului poate fi data in multe cazuri de
+catre client (daca exista doar un contract executant–
+client)
+Planul strategic: proiectul trebuie sa fie subsidiar dezvoltarii strategice a organizatiei promotoare (i.e.
+experienta si structura organizatiei ce promoveaza proiectul trebuie sa fie considerate ca factori
+determinanti in procesul de selectie al proiectului
+)
+PAGINA 15
+Procesul de initiere – intrari (2)
+Criteriile de selectie ale proiectului: au in vedere
+produsul final obtinut in urma realizarii proiectului
+Informatiicomplementare: orice informatie
+complementara referitoare la alte proiecte si modul lor de finalizare (sau la modul de finalizare a fazelor anterioare din cadrul unui proiect).
+PAGINA 16
+Procesul de initiere – iesiri
+Documentatia de proiect: contine in general
+descrierea produsului / serviciului ce vor fi obtinute prin
+realizarea proiectului si necesitatile (externe) care au dat
+nastere la punerea in aplicare a proiectului
+Identificarea Directorului de proiect: el trebuie
+identificat inainte de pornirea proiectului
+Definirea constrangerilor, respectiv a acelor
+elemente ce limiteaza posibilitatile de optiune ale
+grupului de lucru (insarcinat cu realizarea proiectului),
+d.e. constrangerile bugetare.
+PAGINA 17
+Procesul de initiere – tehnici
+Metodele de selectie ale proiectului (modele
+decizionale):
+Metode de masura a beneficiului: studii
+comparative, modele economice, etc.
+Metode de optimizare a constrangerilor: algortimi
+de modelare lineara, nelineara, dinamica, multi-obiectiv,
+etc.
+Judecata expertilor: este data de una / mai multe
+persoane cu expertiza intr’un anumit domeniu de interes
+(unitati din organizatia promotoare, consultanti, asociatii
+tehnico-profesionale, grupuri industriale).
+PAGINA 18
+Planificarea scopului –
+intrari
+Descrierea produsului
+Documentatia de proiect
+Constrangeri
+Ipoteze
+PAGINA 19
+Planificarea scopului – iesiri (1)
+Declararea scopului: baza a viitoarelor decizii cu privire la
+evolutia proiectului si mecanism de comunicare cu grupul de
+stakeholder. Include:
+Justificarea proiectului necesarul de piata pe care proiectul
+trebuie sa’l acopere
+Produsul / serviciul proiectului: descriere
+Obiectivele proiectului: criteriile cuantificabile care trebuiesc
+indeplinite pentru ca proiectul sa poata fi considerat realizat (minim:
+cost, agenda de realizare, elemente de masura a calitatii)
+Elemente insotitoare ale proiectului (project deliverables):
+insotesc produsele finale ale proiectului (d.e. manual utilizator,
+tutorial, etc)
+PAGINA 20
+Planificarea scopului – iesiri (2)
+Managementul de scop: descrie modul de
+atingere a scopului si modul in care schimbarile de
+scop vor fi integrate in proiect.
+Trebuie sa cuprinda si o evaluare a stabilitatii
+scopului proiectului
+PAGINA 21
+Planificarea scopului – tehnici
+Analiza de produs: are ca scop o mai buna
+intelegere a produselor proiectului; tehnici utilizate:
+analiza de valoare, engineering, analiza functionala,
+etc
+Analiza de cost / beneficiu: estimarea
+costurilor / beneficiilor pe diverse alternative de
+realizare a proiectului si evaluarea celei mai bune
+alternative
+Identificarea alternativelor: se folosesc
+tehnici de brainstorming sau lateral thinking
+Judecata expertilor
+PAGINA 22
+WBS (Descompunerea
+activitatilor)
+descompunerea lucrărilor care
+urmează să fie executate de către
+echipa de proiect pentru a realiza
+obiectivele proiectului
+PAGINA 23
+WBS (Descompunerea
+activitatilor
+Pasi:
+• Identificarea obiectivului final al proiectului
+• Identificarea livrabilelor majore
+• Niveluri de descompunere suplimentare
+• Se revizuiește și se rafinează WBS
+TOP
+DWN
+PAGINA 24
+WBS Modele
+Top – down – Obiectivul este descompus în componente – Se
+foloseşte, de obicei, o reprezentare pe nivele de complexitate
+ Bottom – up – Se începe cu acţiunile specifice şi se organizează către obiective/ rezultate – Se utilizează agregarea pe componente
+PAGINA 25
+WBS Modele
+Analogia – Se porneşte de la
+modele existent şi se modifică în
+funcţie de necesităţi –
+Influenţată de gradul de
+similitudine al obiectivelor –
+Necesită existenţa unur
+documente din proiecte
+precedente
+Mind-mapping – Colecţie de
+idei legate între ele
+PAGINA 26
+Definirea functiei scop – intrari (1)
+Descrierea produsului: contine
+toate elementele descriptive in baza
+carora produsul / serviciul asociat
+proiectului va firealizat. Detaliile vor fi
+maiputine in faza de inceput si mai
+multe odata cu evolutia proiectului.
+Descrierea produsului poate fi data in
+multe cazuri de catre client (daca
+exista doar un contract executant –
+client)
+Planul strategic: proiectul trebuie
+sa fie subsidiar dezvoltarii strategice a
+organizatiei promotoare (i.e.
+experienta si structura organizatiei ce
+promoveaza proiectul trebuie sa fie
+considerate ca factori determinanti in
+procesul de selectie al proiectului
+PAGINA 27
+Criteriile de selectie ale proiectului: au in vedere produsul final
+obtinut in urma realizarii proiectului
+Informatii complementare: orice informatie suplimentara
+referitoare la alte proiecte si modul lor de finalizare (sau la modul de
+finalizare a fazelor anterioare din cadrul unui proiect
+Definirea functiei scop – intrari (2)
+PAGINA 28
+Definirea functiei scop –
+iesiri (1)
+Definirea scopului: baza documentara in raport cu care vor fi luate toate
+deciziile ulterioare in cadrul proiectului. Este posibil ca pe masura avansarii
+proiectului, scopul sa fie revizuit (sub raportul unor detalii) in vederea
+adaptarii formei la continut. Definirea scopului trebuie sa includa:
+justificarea proiectului, descrierea produselor finale ale proiectului si
+obiectivele acestuia (cost, agenda activitatilor si factori de calitate).
+PAGINA 29
+Definirea functiei scop –
+iesiri (2)
+Managementul scopului: cuprinde descrierea modalitatilor de atingere a
+scopului ca si felul in care schimbarea unor aspecte de scop vor fi integrate
+ulterior in structura proiectului.
+Materiale de referinta: cuprind documentatia necesara in vederea
+identificarii tuturor ipotezelor de lucru si a aspectelor restrictive cu privire la
+desfasurarea proiectului / fazei.
+PAGINA 30
+Definirea functiei scop –
+tehnici
+Materiale de referinta (in raport cu proiecte similare): poate oferi un
+template pentru noul proiect (d.e. ciclul de viata sau materiale insotitoare)
+Descompunere: presupune descompunerea materialelor insotitoare ale
+proiectelor in elemente mai mici, mai usor de gestionat. Etape:
+Identificarea elementelor majore (principale) ale proiectului
+Decizie asupra costurilor si duratelor fiecarui element in parte
+Identificarea constituentilor pentru elementele insotitoare
+Verificarea corectitudinii descompunerii
+PAGINA 31
+Verificarea functiei scop –
+intrari
+Rezultatele activitatilor desfasurate
+Documentatia de produs: cuprinde totalitatea documentatiei asociate
+produsului obtinut
+PAGINA 32
+Verificarea functiei scop –
+iesiri
+Acceptarea formala: cuprinde documentatia in baza careia stakeholder-i
+au acceptat produsul obtinut in timpul desfasurarii proiectului / fazei
+PAGINA 33
+Verificarea functiei scop –
+tehnici
+Inspectia: cuprinde activitati de masurare, examinare, si testare in
+vederea determinarii concordantei rezultatelor cu solicitarile proiectului.
+Activitatile se numesc: recenzii, auditari, analize de produs, etc.
+PAGINA 34
+Modificarea functiei scop –
+intrari
+Materiale de referinta
+Rapoartele (analizei) de performanta: pot da informatii utile team-ului
+de lucru asupra problemelor critice din viitor
+Solicitare de schimbare: poate fi realizata oral sau in scris, direct sau
+indirect, optional sau obligatoriu, etc. Schimbarile sunt rezultatul unor:
+Evenimente externe,
+Erori sau omisiuni in definirea scopului produsului
+Erori sau omisiuni in definirea scopului proiectului
+Necesitatii unei plus-valori noi
+Planul de management al scopului
+PAGINA 35
+Modificarea functiei scop –
+iesiri
+Schimbari de scop:
+modificari ale documentelor
+initiale referitoare la scop.
+In general consta in
+modificari ale costurilor,
+calendarului de activitati,
+calitatii, etc. Schimbarea de
+scop trebuie notificata
+stakeholder-lor.
+Actiuni corective
+Bune practici: trebuiesc
+introduse in BD a
+proiectului.
+PAGINA 36
+Modificarea functiei scop –
+tehnici
+Sistemul de control al schimbarii de scop: cuprinde documentatia,
+sistemul de aprobari si sistemul de urmarire a schimbarilor
+Masurarea de performanta: permite evaluarea magnitudinii variatiilor
+petrecute. De asemenea, aici se determina actiunile corectoare ref. la
+variatiile petrecute.
+Planuri aditionale: putine proiecte evolueaza conform planului initial; sunt
+necesare planuri aditionale sau analize ale abordarilor alternative
+PAGINA 37
+Deviatia de scop – cauze
+Nedefinirea clara a scopului proiectului
+Lipsa de experienta in management de proiect
+Lipsa unei bune comunicari intre stakeholder-i
+Incoerență în gestionarea schimbărilor ref. scopul proiectului
+Lipsa de coerenta / claritate a cerințelor clientului
+PAGINA 38
+Concluzii
+Indiferent de motivul pentru care un proiect
+este creat, este important că scopul proiectului
+să fie definit şi stabilit corect încă de la început
+Crearea planului de activităţi ar trebui să fie
+unul din primii paşi de planificare al
+procesului, o dată ce au fost scrise
+specificaţiile necesare proiectului
+WBS descompune lucrări complexe în acțiuni
+din ce în ce mai detaliate.
+Cele mai cunoscute dintre acestea sunt: topdown, bottom-up, analogia și mind-mapping.
+Validarea reprezintă primirea acceptului formal
+din partea clientului pentru toate livrabilele
+proiectului.
+Controlul scopului implică monitorizarea stării
+proiectului și gestionarea modificărilor aduse
+scopului.
+
+CURS 4
+PAGINA 1
+Management de proiect
+PAGINA 2
+Curs 4
+Managementul de timp
+PAGINA 3
+Definitie
+Managementul timpului sau Time Management (din lb. eng.) se
+refera la un set de principii, practici, aptitudini si sisteme, utilizate
+pentru a controla perioada de timp petrecuta pentru indeplinirea
+unor activitati specifice, cu scopul de a spori eficienta sau
+productivitatea muncii.
+Paul R. Godin propune o definiţie sugestivă a conceptului de
+management al timpului: “Un proces personal de programare, de
+anticipare şi de reacţie într-o manieră planificată, predictivă şi
+eficientă”.
+PAGINA 4
+O bună organizare a timpului va duce implicit la creşterea
+productivităţii şi la rezolvarea unui număr mai mare de
+probleme.
+Ajuta membri proiectului in a-si pastra motivatia si a fi
+consistenti in munca lor pe toata perioada proiectului
+Chiar daca planificare necesita timp acesta va fi recuperat la
+urma prin rezultate
+De ce Time Management?
+PAGINA 5
+Modelul conceptual
+PAGINA 6
+Modelul sistemic
+PAGINA 7
+Definirea activităților
+procesul de identificare și documentare a actiunilor (activităților) specifice ce
+urmeaza a fi executate în scopul finalizării proiectului.
+Pachetele de lucru sunt împărțite în unități
+Intrăr
+i
+Instrumente
+&
+Tehnici
+Ieșiri
+PAGINA 8
+Definirea activitatilor
+Intrări Scopul proiectului
+Work Breakdown
+Structure
+Constrângeri
+Planul agendei de
+lucru
+Cultura organizațională
+Structura
+organizațională
+Disponibilitatea
+resurselor
+Factorii de mediu ai
+organizației
+Proceduri
+Ghiduri formale privind
+riscul, schimbările, etc.
+Procesele organizației
+Definirea activitatilor - intrari
+PAGINA 9
+Definirea activitatilor – intrari
+Definitie: identificarea si documentarea activitatilor specifice ce
+trebuiesc realizate in vederea finalizarii proiectului
+Marimile de intrare:
+Materiale de referinta
+Definirea scopului: justificarea si obiectivele proiectului
+Istoricitatea activitatilor (trecute si viitoare)
+Constrangerile: elementele de limitare a optiunilor grupului de
+lucru
+Ipotezele de lucru: definirea factorilor in raport cu care este
+structurata planificarea proiectului. Acesti factori sunt considerati
+adevarati (evident, cu un anumit coeficient de risc) si se vor
+constitui in marimi de iesire pentru procesul de identificare a
+riscurilor.
+PAGINA 10
+Ieșiri
+Lista de activități
+ Documentația acestui
+proces.
+Materiale suport
+ Constrângeri
+ Tipul de dependență
+ Identificatori
+Atributele activităților
+Definirea activitatilor – iesiri
+PAGINA 11
+Definirea activitatilor – iesiri
+ Lista activitatilor: cuprinde totalitatea activitatilor ce
+urmeaza a fi desfasurate in cadrul proiectului; lista trebuie organizata ca o extensie a materialelor de referinta (pentru a nu fi incluse activitati ce nu sunt legate de scopul proiectului)
+ Materiale suport: cuprinde intreaga documentatie aferenta (listei activitatilor) si care va putea fi utilizata si in cadrul unui alt management de proiect
+PAGINA 12
+Descompunerea
+Instrumente & Tehnici
+ Elaborare
+progresivă
+Planificarea
+“Rolling Wave”
+ Liste de
+activități din
+proiecte
+anterioare
+similare
+Template
+Definirea activitatilor – tehnici
+PAGINA 13
+Definirea activitatilor – tehnici
+Descompunerea: subdivizarea elementelor proiectului in
+componente mai mici si mai usor de gestionat. In acest caz se obtin
+activitati (succesiuni de actiuni) pe cata vreme in cadrul Definirii
+scopului se obtineau materiale insotitoare (elemente fizice)
+Template-uri: o lista de activitati (sau portiuni dintr’o asemenea
+lista) pot fi considerate ca template-uri pentru un nou proiect
+PAGINA 14
+Principiul Pareto (regula
+20/80)
+Aproximativ 20% din munca cea mai dificilă produce 80% din rezultate
+Avem cinci pași de urmărit:
+1. Vizualizăm rezultatul pe care îl așteptăm
+2. Îndreptarea în acțiunile necesare pentru a finaliza treaba.
+3. Efectuarea acțiunii cu dedicare completă și în ordinea cea mai exactă,
+4. Identificarea și executarea următoarei acțiuni importante.
+5. Repetăm până la final.
+PAGINA 15
+Definirea activităților
+procesul de identificare și documentare a relațiilor dintre activitățile
+proiectului într-un mod logic.
+Obținerea celui mai bun rezultat ținând cont
+de constrângeri.
+Intrări
+Instrumente
+&
+Tehnici
+Ieșiri
+PAGINA 16
+Secventierea activitatilor
+Intrări  Scopul proiectului
+Work Breakdown
+Structure
+Constrângeri
+Planul agendei de
+lucru
+Lista de activități și
+atributele lor
+Proceduri
+Ghiduri formale privind
+riscul, schimbările, etc.
+Procesele organizației
+Cultura organizațională
+Structura
+organizațională
+Disponibilitatea
+resurselor
+Factorii de mediu ai
+organizației
+Secventierea activitatilor –
+intrari
+PAGINA 17
+Secventierea activitatilor
+–
+intrari
+Definitie: cuprinde identificarea si documentarea dependentelor dintre
+diferitele activitati aferente unui proiect / faze.
+Lista activitatilor
+Descrierea produsului
+Dependentele (impuse) intre diferitele activitati (hard logic): sunt
+inerente succesiunii de activitati avute in vedere. Ele include limitari
+fizice si / sau logice (conceptuale)
+PAGINA 18
+Secventierea activitatilor
+–
+intrari
+Dependente arbitrare (soft logic): sunt definite in cadrul etapei de
+structurare a proiectului de catre personalul de conducere a
+acestuia. Aceste dependente sunt definite in general pe baze
+empirice (d.e. bune practici intr’o arie particulara de aplicatie) sau in
+raport cu o secventa particulara (neuzuala) a unor faze ale
+proiectului.
+Dependente externe: sunt acele dependente existente intre
+activitatile specifice si cele nespecifice (externe) ale proiectului (d.e.
+activitatea de testare a produselor soft).
+Constrangeri
+Ipoteze de lucru
+Ieșiri
+Lista de activități
+actualizată
+Diagrama rețea a
+proiectului
+PAGINA 19
+Secventierea activitatilor –
+iesiri
+PAGINA 20
+Secventierea activitatilor
+– iesiri
+Diagrama (reteaua) proiectului: cuprinde reprezentarea schematica
+(printr-o diagrama) a activitatilor din cadrul unui proiect si a relatiilor
+dintre ele.
+Lista (actualizata) a activitatilor: realizarea diagramei proiectului poate
+sa necesite reactualizarea activitatilor (divizare, redefinire pentru
+stabilirea dependentelor logice)
+PAGINA 21
+Finish-to-start (FS)
+Finish-to-finish (FF)
+Start-to-start (SS)
+Start-to-finish (SF)
+Determinarea
+dependențelor
+Instrumente & Tehnici
+activitățile sunt
+reprezentate prin
+noduri
+dependențele între
+acestea prin săgeți.
+Metoda diagramei
+de precedență
+(PDM)
+activitățile sunt
+reprezentate pe
+săgeți
+dependențele sunt
+reprezentate de
+noduri
+Metoda diagramei cu
+săgeți
+Secventierea activitatilor –
+tehnici
+PAGINA 22
+Secventierea activitatilor
+– tehnici
+Metoda diagramei de precedenta : reprezentare prin diagrama a
+proceselor: nodurile reprezinta activitatile iar sagetile reprezinta
+dependentele. Tehnica este utilizata in majoritatea softurilor de PjM
+Metoda diagramei cu sageti: reprezentare prin diagrama a proceselor:
+sagetile reprezinta activitatile iar nodurile reprezinta dependentele.
+Metoda diagramelor conditionale: tipuri de diagrame: GERT
+(Graphical
+Evaluation and Review Technique) si Sisteme Dinamice; introduc
+posibilitatea activitatilor non-secventiale (cicluri sau conditionari).
+PAGINA 23
+Secvențierea activităților
+AOA
+AON
+PAGINA 24
+Secvențierea activităților
+Diagrama de precedență
+PAGINA 25
+Secvențierea activităților
+- relatii
+Tipuri de relații între activități:
+Finish to start: activitatea A
+trebuie încheiată înaintea începerii
+activității B.
+Start to start: activitatea A
+trebuie începută înaintea începerii
+activității B.
+Finish to finish: activitatea A
+trebuie finalizată înaintea finalizării
+activității B.
+Start to finish: activitatea A
+trebuie să înceapă pentru ca
+activitatea B să se finalizeze
+PAGINA 26
+Secvențierea activităților
+- relatii
+Tipuri de relații între activități:
+Finish to start: activitatea A
+trebuie încheiată înaintea începerii
+activității B.
+Start to start: activitatea A
+trebuie începută înaintea începerii
+activității B.
+Finish to finish: activitatea A
+trebuie finalizată înaintea finalizării
+activității B.
+Start to finish: activitatea A
+trebuie să înceapă pentru ca
+activitatea B să se finalizeze
+PAGINA 27
+Estimarea duratelor activităților
+procesul de estimare a perioadei de lucru necesară pentru indeplinirea
+fiecărei activități având la dispozitiție resursele estimate.
+Identificarea resurselor necesare și a
+cerințelor (disponibilitatea) acestora permit
+estimarea duratelor.
+Intrări
+Instrumente
+&
+Tehnici
+Ieșiri
+PAGINA 28
+Estimarea duratei activităților
+Intrări  Scopul proiectului
+Work Breakdown
+Structure
+Constrângeri
+Planul agendei de
+lucru
+Lista de activități și
+resursele necesare
+Proceduri
+Ghiduri formale privind
+riscul, schimbările, etc.
+Procesele organizației
+Cultura organizațională
+Structura
+organizațională
+Disponibilitatea
+resurselor
+Factorii de mediu ai
+organizației
+4. Estimarea duratelor activităților
+PAGINA 29
+Estimarea duratei activitatilor –
+intrari
+Definitie: procesul de estimare a duratei activitatilor implica evaluarea
+perioadelor de lucru asociate fiecarei dintre actiuni.
+Lista activitatilor
+Constrangeri
+Ipoteze de lucru
+Resurse necesare (si performantele acestora): durata unei activitati este
+puternic dependenta de tipul resurselor asociate proiectului.
+PAGINA 30
+Alte informatii de referinta: se refera la orice informatie raportata la
+activitati similare desfasurate in trecut; aceste informatii au ca sursa
+experienta personala a persoanelor implicate in proiect, documentatii
+existente, alte informatii publice:
+Dosarele proiectului: informatii referitoare la alte proiecte ce
+pot fi utilizate in cadrul prezentului proiect
+Baze de date comerciale (pentru estimarea duratei activitatilor)
+Cunostiintele (experienta) personalului proiectului
+PAGINA 31
+Estimarea duratei activitatilor –
+intrari
+Ieșiri
+Lista de activități
+actualizată cu
+duratele estimate
+Documentare și
+actualizarea
+Documentarea
+procesului
+Estimarea duratei activităților
+PAGINA 32
+Estimarea duratei activitatilor
+– iesiri
+Estimarea duratei (unei activitati): procesul de evaluare cantitativa a
+numarului (si duratei) diferitelor perioade de lucru asociate unei
+anumite activitati. Fiecare estimare trebuie exprimata in marimi
+procentuale sau absolute (abatere fata de valoarea nominala, d.e. 2
+saptamani ± 3 zile)
+Bazele estimarii: cuprinde toata documentatia aferenta procesului
+de estimare a duratei activitatilor
+Lista (actualizata a) activitatilor
+PAGINA 33
+Estimări prin
+analogie
+Instrumente & Tehnici
+Judecata experților
+Simulare
+Estimarea duratei activităților
+PAGINA 34
+Estimarea duratei activitatilor
+– tehnici
+Judecata expertilor: este utila (prin experienta acumulata de experti) in
+estimarea duratei activitatilor; altfel estimarile sunt incerte si riscante
+Estimari prin analogie (estimare top-down): foloseste informatia
+referitoare la o activitate similara pentru estimarea duratei unei activitati
+viitoare. Metoda este eficienta atunci cand:
+Activitatile precedente sunt similare in fapt, nu doar in aparenta
+Persoanele ce realizeaza estimarea au expertiza necesara
+Simulare: presupune calculul a diverse variante ce au la baza ipoteze
+diferite. Cea mai utilizata tehica: metoda Monte –Carlo.
+PAGINA 35
+Dezvoltarea agendei de lucru
+procesul de analiza a secvențierii activităților, duratelor fiecarei
+activitati (data de start/început), necesarul de resurse si a
+constrangerilor în scopul crearii unei agenda de lucru pentru
+proiect.
+Ultima etapă a managementului din timp din
+cadrul procesului de planificare
+Intrări
+Instrumente
+&
+Tehnici
+Ieșiri
+PAGINA 36
+Dezvoltarea agendei de lucru
+Intrări
+Diagrama rețea a
+proiectului
+Lista de activități și
+atribute (durate, resurse,
+etc.)
+Factori de mediu ai
+organizației
+Constrângeri
+Dezvoltarea agendei de lucru
+PAGINA 37
+Dezvoltarea agendei de lucru
+– intrari
+Definitie: are ca scop precizarea
+datei de inceput / sfarsit
+pentru fiecare activitate din
+proiect.
+Diagrama (reteaua) proiectului
+Estimarea duratei activitatilor
+Resurse necesare
+Descrierea resurselor: resurse
+valabile la momente diferite de
+timp si in configuratii diferite
+PAGINA 38
+Dezvoltarea agendei de lucru
+– intrari
+Calendare: calendarul resurselor
+si al proiectului permite
+identificarea perioadelor in care
+activitatile sunt posibile.
+Calendarul proiectului afecteaza
+toate resursele. Calendarul
+resurselor afecteaza o resursa
+sau un grup de resurse.
+Constrangeri: categorii posibile:
+Date impuse: cele ce sunt
+impuse de sponsor, client sau alti
+factori externi
+Evenimente cheie sau date
+importante: solicitate de
+stakeholders.
+Ipoteze de lucru
+PAGINA 39
+Ieșiri
+Agenda de lucru a
+proiectului
+Constrângeri, necesar se
+resurse, perioade de
+timp, variante de agende
+alternative
+Actualizări de resurse
+Documentațiile
+procesului
+Dezvoltarea agendei de lucru
+PAGINA 40
+Dezvoltarea agendei de lucru
+– iesiri
+Agenda de lucru a proiectului: contine data de start si data
+(probabila) de sfarsit pentru fiecare activitate; prezentari: diagrame
+Gannt, diagrame de lucru (milestones chart), etc
+Planulde management (al agendei de lucru): descrie modalitatile
+prin care schimbarile agendei de lucru pot fi gestionat
+e
+Actualizarea necesarului de resurse
+Materiale de referinta (detalii de control): documentarea tuturor
+ipotezelor si constrangerilor; contine:
+Necesarul de resurse / perioada de timp
+Agende (variante) alternative
+Agende (variante) de rezerva sau de evaluare a riscurilor
+PAGINA 41
+Diagrame de rețea
+AOA
+Tehnică de
+probabilitate
+Metoda PERT
+Instrumente & Tehnici
+Metoda Drumului
+Critic
+Grafic Gantt
+Dezvoltarea agendei de lucru
+PAGINA 42
+Dezvoltarea agendei de lucru
+– tehnici
+Analiza matematica: permite calculul datelor de start / sfarsit al fiecarei
+activitati, din punct de vedere teoretic (fara a se tine cont de orice tip de
+limitare). Rezultatul nu reprezinta o Agenda de lucru, ci doar intervalul
+maximal in raport cu care vor actiona constrangerile. Tipuri de analiza
+matematica:
+Metoda drumului critic (CPM –Critical Path Method): calculeaza o
+singura traiectorie (datele de inceput / sfarsit) din punct de vedere
+deterministic. Scopul CPM este de a pune in evidenta aceleactivitati ce
+au o flexibilitate minima dpdv al Agendei de lucru
+Metoda GERT (Graphical Evaluation and Review Technique): utilizeaza
+tehnici probabilistice atat pentru logica retelei cat si pentru estimarea
+duratei activitatilor (i.e. anumite activitati nu sunt finalizate, anumite
+activitati sunt realizate partial sau de mai multe ori, etc.)
+PAGINA 43
+Dezvoltarea agendei de lucru
+– tehnici
+Metoda PERT (Program Evaluation and Review Technique):
+utilizeaza logica retelei secventiale si o estimare ponderata a
+duratei activitatilor
+Compresia duratei: reprezinta metoda matematica prin care se
+urmareste micsorarea duratei activitatilor fara a modifica scopurile
+proiectului. Tipuri:
+Realizarea de activitati paralele pentru activitati normal
+secventiale. In general conduce la cresterea riscurilor
+Realizarea unei compresii maxime pentru cresteri minimale de
+cost. In general nu produce alternative viabile
+Simulare
+Soft pentru PjM: utilizat ca aplicatie de asistenta in dezvoltarea
+Agendei de lucru.
+PAGINA 44
+Dezvoltarea agendei de lucru
+Diagrama Gantt
+PAGINA 45
+Dezvoltarea agendei de lucru
+Metoda drumului critic
+• DUR: cât durează efectuarea activității.
+• EST: cât de devreme poate activitatea să înceapă
+fără a interfera cu activitățile anterioare.
+• LST: cât de târziu o activitate poate începe fără a
+interfera cu activități viitoare.
+• EFT: cât de devreme o activitate se poate încheia.
+• LFT: cât de târziu o activitate se poate încheia fără a
+interfera cu începutul oricărei activități ulterioare.
+• Float time: timpul de efectuare a activității – timpul
+necesar.
+PAGINA 46
+Dezvoltarea agendei de lucru
+Metoda drumului critic
+Metoda drumului
+critic - exemplu
+PAGINA 47
+Dezvoltarea agendei de lucru
+Metoda drumului critic
+PAGINA 48
+Dezvoltarea agendei de lucru
+Metoda PERT
+PAGINA 49
+Controlul agendei de lucru
+procesul de monitorizare a stadiului activitatilor proiectului, de
+identificare și gestionare a schimbărilor asupra agendei de lucru
+daca este cazul în scopul îndeplinirii proiectului.
+Se pot identifica deviațiile proiectului de la
+planul inițial, astfel că se vor putea aduce
+acțiuni corective.
+Intrări
+Instrumente
+&
+Tehnici
+Ieșiri
+Controlul agendei de lucru
+PAGINA 50
+Controlul agendei de lucru –
+scop
+influentarea factorilor ce conduc la modificarea
+agendei de lucru (in sensul ca acesti factori sa fie
+benefici)
+observarea (determinarea) schimbarilor din agenda
+de lucru
+gestionarea schimbarilor curente
+PAGINA 51
+Intrări
+Planul agendei de lucru
+și agenda de lucru
+Rapoarte de
+performanță
+Solicitări de schimbări
+Controlul agendei de lucru
+PAGINA 52
+Controlul agendei de lucru –
+intrari
+Agenda de lucru a proiectului: este integrata in planul general de
+desfasurare a proiectului si reprezinta baza de evaluare a evolutiei
+acestuia.
+Rapoarte de performanta: pune in evidenta performantele obtinute
+in cadrul proiectului, la datele fixe precizate in agenda de lucru.
+Totodata, pot prezenta punctele critice ale evolutiei ulterioare a
+proiectului.
+Schimbari solicitate: pot fi prezentate in orice forma (scris / oral).
+Schimbarile pot conduce la dilatarea / contractia agendei de lucru
+Planul de management al agendei de lucru
+PAGINA 53
+Ieșiri
+Respectă planul inițial
+Acțiuni corective
+Performanța
+proiectului
+Bune practici
+Oferă suport pentru
+proiecte viitoare
+Documentațiile
+procesului
+Modififările aduse datelor
+în urma reviziei
+Actualizarea agendei de
+lucru
+Controlul agendei de lucru
+PAGINA 54
+Controlul agendei de lucru –
+iesiri
+Actualizarea agendei de lucru: orice modificare a agendei de lucru
+trebuie sa fie adusa la cunostinta grupului de stakeholder. Revizia:
+reprezinta modificari ale datelor de inceput / sfarist ale unei
+activitati. Aceste modificari se fac doar in corelatie cu scopul
+proiectului.
+Actiuni corective: orice activitate realizata in vederea realizarii
+performantelor corespunzatoare planului proiectului. In general
+presupun activitati suplimentare (dar care nu trebuie sa produca
+intarzieri).
+Bune practici (Lessons learned): documentarea tuturor experientelor
+avute in raport cu gestiunea agendei de lucru (devin o parte din
+istoricitatea proiectului, transferata in baze de date
+)
+PAGINA 55
+Diagrame de rețea
+AOA
+Tehnică de
+probabilitate
+Politici și proceduri de
+control formale
+Instrumente & Tehnici
+Abaterea față de
+planul inițial
+Evaluarea performanței
+Analize de tip What-If
+Software
+management de
+proiect
+Metode de previziune
+pentru schimbări
+Controlul agendei de lucru
+PAGINA 56
+Controlul agendei de lucru –
+tehnici
+Sistemul de control al schimbarilor (din agenda de lucru): include
+variantele (metodele) de schimbare ale agendei de lucru: sistemul
+de urmarire, de aprobari, etc
+Evaluarea performantelor: permite evaluarea magnitudinii oricarei
+variatii petrecute.
+Planificari suplimentare: putine proiecte pot evolua strict conform
+planului initial: schimbarile necesita estimarea duratei activitatilor,
+modificarea secventei activitatilor, analiza comparativa a agendelor
+de lucru (variante)
+Softul de PjM
+Managementul de timp
+PAGINA 57
+Planificare
+Este necesară o planificare cât mai detaliată pentru
+a putea urma cât mai bine agenda de lucru
+dezvoltată.
+Instrumente și Tehnici
+WBS, PDM (CPM), PERT, Grafic
+Gantt, MS Project, Primavera.
+Resurse
+Performanța și disponibilitatea resursei
+influențează durata activităților și prin urmare a
+proiectului!
+Planificarea agendei de lucru, definirea activităților,
+secvențierea activităților, estimarea duratelor de timp,
+dezvoltarea agendei de lucru, controlul agendei de
+lucru.
+Concluzii
+
+
+
+CURS 5
+PAGINA 1
+Management de proiect
+PAGINA 2
+Curs 5
+Managementul costurilor
+PAGINA 3
+Modelul sistemic
+PAGINA 4
+Introducere
+Managementul costurilor:
+reprezintă procesul de planificare și
+control al bugetului unui proiect
+Definiții:
+Costul - efortul de muncă vie
+materializată, pe care un agent
+economic îl depune efectiv pentru
+fabricarea unui produs, executarea
+unei lucrări sau a unui serviciu
+Cheltuiala – o plată și apare în sfera
+aprovizionării și a desfacerii
+Prețul - expresia bănească a valorii
+mărfii
+PAGINA 5
+Introducere
+Managementul costului se poate face atât la nivel de proiect cât și la
+nivel de business.
+Costul nu este singurul criteriu prin care se poate defini succesul
+unui proiect, însă este cel mai utilizat, ca fiind universal înțeles.
+ Se împarte în patru pași:
+PAGINA 6
+Definitii
+02
+Pret
+= categorie economica
+ce reprezinta expresia
+baneasca a valorii unei
+marfi pe care trebuie sa
+o plateasca
+cumparatorul pentru
+achizitionarea unui
+produs sau serviciu
+03
+Consum
+= utilizarea de bunuri
+materiale si servicii in
+scopul satisfacerii
+nevoilor
+Management =
+ansamblul de activitati
+de organizare,
+conducere si gestiune a
+intreprinderilor
+04
+Managementul
+costurilor
+= ansamblul de
+activitati pentru
+planificarea bugetului
+unui proiect
+01
+Cost
+= suma de bani
+cheltuita pentru
+producerea sau
+cumpararea unui bun,
+prestarea unui serviciu
+Cheltuiala = consum de
+mijloace materiale,
+munca, energie pentru
+satisfacerea unor nevoie
+PAGINA 7
+Ce este Costul ?
+Provine de la verbul de origine latina „constare”, ce inseamna a stabili,
+a fixa
+Ulterior, semnificatia a fost schimbata in „costa” - consumul de
+producerea al unui obiect
+Cost - platile facute de o organizatie catre terti pentru marfurile si
+serviciile de care beneficiaza si valoarea implicita a oricarui bun –
+forta de munca, teren, capital – pe care firma si’l livreaza ei insasi
+PAGINA 8
+Cost vs. Cheltuiala
+* Efortul de munca vie si
+materializata pe care un
+agent economic il depune
+pentru fabricarea unui
+produs, pentru executarea
+unei lucrari sau a unui
+serviciu
+* consum efectiv de resurse
+pentru obtinerea unui
+rezultat
+Cost
+!!! * Reprezinta o plata. * Sfera cheltuielilor se poate
+include in sfera costurilor,
+deoarece aceasta este mult
+mai vasta si mai complexa
+PAGINA 9
+Consum
+● desemneaza utilizarea
+productiva a materialelor,
+materiilor prime, a energiei si
+altor resurse
+● transferul de valoare de la
+factorii de productie la serviciile
+destinate vanzarii sau
+consumului propriu
+PAGINA 10
+Formarea costului
+PAGINA 11
+Pretul de vanzare al
+produsului/serviciului
+Costul complet + profitu
+Pret de productie + TVA
+Pret de livrare
+Pretul de
+desfacere
+Adaos
+TVA
+Cost complet
++ Profit
+PAGINA 12
+Procesele Managementului de Cost
+Alocarea estimarii costului total fiecarei
+activitate de lucru pentru a stabili un cost
+de baza.
+Determinarea bugetului proiectului
+Stabilirea resurselor ce vor fi folosite in
+procesul de management total al costurilor
+si in ce cantitati
+Planificarea resurselor
+Monitorizarea costului pentru a detecta variatii
+de la planul initial, preventia unor schimbari cu
+impact negativ
+Controlul costului
+Estimarea sau proximarea costurilor atribuite
+fiecarei resurse necesare implicate in
+activitatile de proiect
+Estimarea costurilor
+04 03 02 01
+PAGINA 13
+Planificarea resurselor
+• Structura de descompunere a
+activitatilor de lucru– Work
+breakdown structure WBS
+• Informatii istorice
+• Afrimatii despre scop
+• Descrierea fondului de resurse
+• Politici organizationale.
+Mărimi de intrare
+Expertize (furnizate de
+orice grup sau individ
+ce are cunostinte
+specializate )
+• Identificarea
+alternativelor
+Instrumente și tehnici
+• Resursele necesare –
+descriere a tipurilor de
+resurse si in ce cantitati
+avem nevoie pentru
+fiecare element din
+WBS.
+Mărimi de ieșire
+PAGINA 14
+Planificarea resurselor
+Procesul prin care se determină ce resurse, precum forță de muncă,
+echipament materie primă, și ce cantitate din acestea va fi folosită pentru a
+desfășura activitățile proiectului.
+Se au în vedere
+Componentele proiectului
+Informații anterioare
+Scopul
+Resursele existente
+PAGINA 15
+Planificarea resurselor
+-studiu de caz
+
+Procesul de
+preparare
+Materie
+primă
+Angajați
+Bonusuri
+salariale
+Echipamente
+Costuri de
+întreținere
+O brutărie decide să adauge un produs nou în meniu.
+PAGINA 16
+Managementul costului - 1
+stabileste costurile pe diferite
+unitati de cost;
+urmareste costurile pe
+diferite unitati de cost;
+impune stabilirea
+persoanelor responsabile
+pentru urmarirea costurilor;
+trece responsabilitatile
+pentru respectarea costurilor
+prestabilite in bugetele
+respective la aceste niveluri;
+PAGINA 17
+Managementul costului - 2
+cunoaste in detaliu pentru ce
+s-au cheltuit resursele
+economice ale intreprinderii;
+contribuie la reducerea
+costurilor de productie;
+asigura optimizarea
+intregului proces de
+activitate economica;
+utilizeaza metode adecvate
+in realizarea controlului
+operativ asupra costurilor;
+permite obtinerea
+raspunsului la intrebarile cat
+costa intreprinderea un
+obiect sau altul;
+PAGINA 18
+Managementul costului - 3
+permite prevederea ce, cum si
+pentru ce si cine de produs;
+permite argumentarea surselor
+suplimentare implicate in
+desfasurarea activitatii;
+permite orientarea corecta a
+politicii de productie si
+desfacere;
+controleaza procesul de
+productie la toate fazele;
+furnizeaza informatie relevanta
+pentru luarea deciziilor
+concrete la diferite niveluri
+ierarhice de management.
+PAGINA 19
+Metoda substitutiilor in lant
+1. ordonarea factorilor se face in
+functie de criteriul conditionarii
+economice: in factori cantitativi,
+factori de structura si factori
+calitativi;
+2. substituirile (inlocuirile) se fac
+succesiv incepand cu factori
+cantitativi, continuand cu factori
+de structura si incheind cu cei
+calitativi;
+3. un factor substituit se mentine
+la nivelul curent in toate
+operatiile ulterioare.
+PAGINA 20
+Determinarea bugetului - 1
+1. impune planificarea strategica si
+implementarea planurilor;
+2. ofera un cadru de referinta
+pentru evaluarea
+performantelor;
+3. motiveaza managerii si angajatii
+companiei;
+4. promoveaza coordonarea si
+comunicarea intre subdiviziunile
+companiei.
+PAGINA 21
+Determinarea bugetului - 2
+detalierea exacta a activitatilor
+O buna fudamentare a costurilor
+gruparea a costurilor pe activitati
+gruparea costurilor pe categorii de cheltuieli
+cunoasterea cerintelor finantatorului
+incadrarea costurilor in categoria costurilor eligibile si costuri neeligibile
+intocmirea planului financiar al proiectului
+PAGINA 22
+Estimarea costurilor
+Estimarea costurilor –
+evaluare cantitativa a
+costurilor posibile
+Detalii – pentru
+sprijinul estimarii
+Planul de management
+al costului
+Mărimi de ieșire
+Estimarea analog –
+top-down
+Modelarea parametrica
+Estimarea bottom-up
+Instrumente
+informatice
+Tehnici și instrumente
+Structura de descompunere a
+activitatilor de lucru– WBS
+Resursele necesare
+Rate ale resurselor
+Estimarae duratelor
+activitatilor
+Informatii istorice
+Planul de conturi
+Marimi de intrare
+PAGINA 23
+Estimarea costurilor
+Aproximarea costurilor necesare pentru desfășurarea proiectului.
+Se au în vedere
+Componentele proiectului
+Resursele necesare
+Riscurile
+PAGINA 24
+Estimarea costurilor
+Estimari aproximative
+Estimari comparative
+Estimari de fezabilitate
+Estimari definitive
+PAGINA 25
+Estimarea costurilor
+ESTIMARI
+APROXIMATIVE
+Sunt facute inaintea inceperii proiectului,
+cand nu exista decat informatii vagi si
+trebuie stabilite toate detaliile activitatilor
+viitoare.
+Acuratete : +/- 25%
+ESTIMARI
+COMPARATIVE
+Se fac prin comparare costurilor pe care
+le-ar necesita realizarea unui proiect nou
+cu costurile unor proiecte similare
+executate in trecut.
+Acuratete : 15%
+PAGINA 26
+Estimarea costurilor
+ESTIMARI DE
+FEZABILITATE
+Se fac dupa efectuarea unor activitati de
+conceptie preliminara a proiectului.
+Necesita un anumit set de documente :
+lista de achizitie, lista de preturi, etc.
+Acuratete : +/- 10%
+ESTIMARI DEFINITIVE
+Sunt efectuate la sfarsitul proiectarii.
+Estimarile sunt definitive atunci cand
+acuratetea declarata este de +/- 5%
+PAGINA 27
+Componente de baza - estimari
+1. Costuri salariale
+2. Costuri materiale
+3. Costuri cu echipamentul
+4. Costuri cu asigurari
+5. Provizioane/Plafon pentru
+inflatie
+6. Alte Provizioane 
+PAGINA 28
+Estimarea costurilor
+-studiu de caz
+-
+Brutăria are informații anterioare cu privire la costurile de
+producție pentru celelalte produse și pe baza lor, estimează
+costul proiectului la 7000 RON/lună
+PAGINA 29
+Determinarea bugetului proiectului
+Costul de baza – bugetul
+de tip faza-timp
+Mărimi de ieșire
+Cele utilizate pentru
+estimare
+Estimarea analoga
+Modelarea parametrica
+Estimarea bottom-up
+Insumente informatice
+Tehnici și instrumente
+Estimarea costurilor
+Structura de
+descompunere a
+activitatilor de lucru -
+WBS
+Programul proiectului –
+planificarea proiectul
+Marimi de intrare
+PAGINA 30
+Determinarea bugetului
+ Alocarea costurilor estimate fiecărui element implicat în
+desfășurarea activităților
+ Determinarea unui punct de referință pentru a măsura performanța
+proiectului
+PAGINA 31
+Determinarea bugetului
+-studiu de caz
+-
+5500 RON/lună
+Materie primă:
+1500 RON/lună
+Bonusuri salariale:
+500 RON/lună
+Întreținerea echipamentelor: 
+PAGINA 32
+Controlul costului
+Revizuirea estimarilor
+de cost
+Actualizarile de buget
+Actiuni corective
+Estimarea la finalizare
+(EAC)
+Lectii invatate
+Mărimi de ieșire
+Sisteme de control al
+schimbarilor
+Masurarea
+performantei
+Planificare aditionala
+Instrumente
+informatice
+Instrumente și tehnici
+Costul de bază –
+bugetul
+Rapoarte de
+performanta
+Cereri de schimbari
+Planul de management
+al costului (estimare)
+Mărimi de intrare
+PAGINA 33
+Controlul costurilor
+Controlul trebuie efectuat operativ,
+in momentul realizarii costurilor
+Se realizeaza doar pe baza
+raportarilor periodice la sfarsitul
+realizarii unor lucrari
+Eventualele depasirii vor fi raportate
+post fapt, nemaiputandu-se
+interveni la timp pentru eliminarea
+cauzelor care le-a determinat
+PAGINA 34
+Controlul costurilor
+Influențarea factorilor care pot aduce
+modificări costului de bază
+Identificarea schimbărilor de cost
+Gestionarea schimbărilor atunci când se
+petrec.
+Controlul costurilor se axează pe
+PAGINA 35
+Controlul costurilor
+-studiu de caz
+-
+O parte din bugetul alocat materiei prime
+pentru producerea pateurilor a fost realocată
+pentru prepararea covrigilor.
+Vânzările de covrigi au depășit așteptările și
+au redus mult mai mult decât s-a estimat
+vânzările de pateuri.
+PAGINA 36
+Modele de urmarire a costurilor
+1. PREVIZIONALE
+2. OPERATIVE
+3. POSTOPERATIVE
+PAGINA 37
+Masurarea performantei
+proiectului vs. costuri
+Există patru variabile majore care au fost identificate pentru a
+măsura performanța proiectelor:
+1.Performanța costurilor.
+1.1. Variația costurilor (CV)
+CV = BCWP − ACWP
+BCWP = costul bugetat al muncii efectuate ; ACWP =
+costul real al acesteia.
+1.2. Indicele de performanță a costurilor (CPI)
+CPI = BCWP ACWP
+2. Performanță de timp.
+TV = BTWP − ATWP
+BTWP = timpul bugetat al muncii ce trebuie efectuate
+și ATWP = timpul de lucru efectuat.
+3. Performanța de calitate.
+4. Satisfacția clientului.
+PAGINA 38
+Instrumente informatice
+QlickView de Expensive
+Management
+Descopera, cauta, analizeaza
+volume mari de date legate de
+cheltuieli, investigheaza costurile si
+cheltuielile in functie de tipul de
+activitate pe diverse zone
+geografice
+Oracle ERP
+Cele mai recente tehnologii,
+actualizari in permanenta, pentru
+imbunatatirea celor mai bune
+practice ale afacerii
+Clarvision ERP
+Planificare si urmarire exacta a
+productiei, a stocurlor, a lantului de
+aprovizionare, a costurilor si a fluxului
+de numerar, a termenelor de livrare si
+onorare a comenzitor
+Charisma ERP
+Software ce integreaza si optimizeaza
+procesele, fluxurile si activitatile
+operationale si financiare specific
+clinicilor, farmaciilor, laboratoarelor
+medicale si cabinetelor stomatologice
+PAGINA 39
+Concluzii
+Indicator universal înțeles al calității
+Costul
+Identificarea resurselor suplimentare necesare pentru desfășurarea
+activității proiectului ; exemplificată în cazul unei brutării care
+dorește să vândă un produs de patiserie nou.
+Planificarea resurselor
+Pe baza exemplului prezentat anterior s-a oferit o primă estimare a
+costurilor de producție pentru acel produs
+Estimarea costurilor
+Fondurile au fost împărțite acelor activități care depindeau de ele.
+Determinarea bugetului
+Exemplificat în situația în care bugetul a trebuit modificat ca urmare
+a unei greșeli de estimare.
+Controlul costurilor
+
+
+
+
+CURS 6
+PAGINA 1
+Management de proiect
+PAGINA 2
+Curs 6
+Managementul calitatii
+in proiecte
+PAGINA 3
+Introducere
+Calitatea reprezinta totalitatea particularitatilor si caracteristicilor unui
+produs sau serviciu care determina capacitatea acestuia de a satisface
+nevoile declarate sau implicite ale utilizatorului.
+PAGINA 4
+Managementul calitatii
+Un sistem de management al calității
+poate fi definit ca fiind: "Un set de activități
+coordonate care să conducă și să controleze
+o organizație pentru a îmbunătăți continuu
+eficacitatea și eficiența performanței sale".
+Gestionarea calității proiectului reprezinta
+procesul de stabilire a unui nivel de calitate
+așteptat la începutul unui proiect și apoi
+menținerea acelei calități de-a lungul
+întregii perioade până la finalizarea
+proiectului.
+PAGINA 5
+Instrumente
+și tehnici pentru
+planificarea calitătii (1)
+Analiza cost-beneficiu : implica estimarea costurilor (cheltuielilor)
+și a
+beneficiilor (veniturilor) diferitelor alternative de proiectare. Beneficiul principal al
+satisfacerii cerin
+țelor de calitate consta in reducerea modificarilor in proiecte, ceea
+ce înseamnă costuri mai reduse
+și o satisfactie mărită a părtilor interesate
+(actionari, stakeholderi).
+Benchmarking : este o metoda de comparare a proceselor proiectului planificat
+cu cele mai bune practici ale altor proiecte din domeniul respectiv sau chiar din alte
+domenii, pentru a obtine idei de îmbunătatire a proceselor
+și proceduri prin care sa
+fie masurate performantele. Aspectele comparate în general sunt calitatea, timpul
+și costul proiectului.
+PAGINA 6
+Instrumente
+și tehnici pentru
+planificarea calitătii (2)
+Utilizarea unor diagrame :
+○ Diagrama cauza-efect : se
+întocme
+ște pentru a stabili rela
+țiile
+existente între diferitele cauze
+și
+problemele existente sau poten
+țiale pe
+care le creeaza.
+○ Scheme de flux al proceselor sau
+al sistemelor : indica fluxul datelor
+sau elementelor procesului/sistemului
+si prin urmare, modalitatile în care se
+succed diferitele elemente ale
+procesului / sistemului.
+Proiectarea experimentelor : tehnica
+analitică care permite identificarea
+variabilelor independente ce au o influen
+ța
+majoră asupra variabilelor dependente ce
+se măsoară în cursul experimentului.
+PAGINA 7
+Factori ce pot afecta calitatea (1)
+Succesul unui proiect depinde de măsura în care organizația reușește să evite
+inițierea sau acțiunea de a minimiza efectele factorilor interni și externi ce pot
+afecta calitatea:
+Factori interni:
+- evaluarea eronată a resurselor disponibile pentru proiectul în derulare;
+- planificarea necorespunzătoare a activităților proiectului (sau a activităților de
+realizare a aplicației financiare, impact negativ asupra posibilităților de
+planificare și desfășurare a activităților proiectului);
+- probleme cu lanțul de aprovizionare;
+- lipsa resurselor (fonduri sau personal calificat);
+- ineficiența organizațională
+PAGINA 8
+Factori ce pot afecta calitatea
+Factori externi:
+- factori naturali (dezastre naturale);
+- influențe economice externe (schimbare adversă a cursului de schimb
+valutar utilizat în proiect);
+- reacția persoanelor afectate de proiect;
+- implementarea măsurilor de politică economică sau socială necesare
+pentru buna desfășurare a proiectului;
+PAGINA 9
+Principalele procese ale
+managementului calitatii
+Calitatea managementului de proiect nu se referă doar la "timp și la buget", ci la "specificații și cerințe de calitate". În conformitate cu ISO 9001: 2000,
+managementul calității este o activitate coordonată pentru indrumarea și
+controlul unei organizații în termeni de calitate.
+Managementul calității proiectului include trei procese principale:
+Planificarea calității
+Asigurarea calității
+Controlul calității
+PAGINA 10
+Planificarea calității
+Planificarea calității include identificarea standardelor de calitate relevante pentru
+proiect și modul de satisfacere a acestora. Includerea standardelor de calitate în
+procesul de formare a proiectului este o parte esențială a planificării calității. Aceste
+standarde vor fi definite în funcție de natura proiectului și de clasificarea activităților.
+Planificarea implică capacitatea de a anticipa situațiile și de a pregăti acțiuni care vor
+avea ca rezultat atingerea obiectivelor stabilite. În procesul de planificare a calității
+proiectului, este foarte important să se identifice standardele de calitate relevante pentru
+fiecare produs individual și să se formeze calitatea în produsul proiectului și al
+procesului inclus în managementul de proiect.
+PAGINA 11
+Rezultate ale planificării
+calității în proiect (1)
+Planul de management al calității : descrie modul în care echipa de
+management a proiectului implementează politica de calitate a companiei. Acest
+plan trebuie sa descrie sistemul calității proiectului.
+Dezvoltarea planului de management al calității trebuie sa identifice
+livrabilele majore ale proiectului, criteriile de completitudine și corectitudine
+care trebuie satisfăcute de livrabile, activități de control al calității, de asigurare
+a calității și de îmbunătățire a calității pentru proiect.
+PAGINA 12
+Rezultate ale planificării
+calității în proiect (2)
+Planul calitatii trebuie sa defineasca testele, inspectiile, si programele de
+audit, adecvate pentru diferitele faze ale proiectului.
+Planul de management al calității definește cerințele pentru calitate și
+procesele de control al calității care vor fi aplicate asupra managementului
+proiectului. 
+PAGINA 13
+Rezultate ale planificării
+calității în proiect (3)
+Cerințele specifice pentru calitate vor fi înglobate în descrierea fiecărui
+produs/livrabil al proiectului. Acest plan oferă date pentru întreg planul de
+management al proiectului și trebuie sa adreseze controlului calității (QC),
+asigurarii calității (QA) și procesului de îmbunătățire continua a
+proiectului.
+Planul trebuie sa conțină toate aspectele calității pentru a asigura baza pentru
+deciziile de calitate care vor fi luate în timpul implementării proiectului.
+PAGINA 14
+Rezultate ale planificării
+calității în proiect (4)
+Definitii operationale : descriu cum se măsoară calitatea în lucrările proiectului,
+precum și în livrabile reale, în cadrul procesului de control al calității.
+Trebuie să se acorde o atentie particulară metricilor ce indica modul în care
+proiectul progresează, în termeni de costuri, ore de munca, duratele activitatilor,
+termenele de începere și de terminare ale fiecărei activitati, productivitatea
+lucrărilor, etc
+Liste de control : sunt utilizate pentru a verifica faptul ca un grup de elemente
+ale unei activități precise au fost efectuate
+PAGINA 15
+Asigurarea calității (1)
+Asigurarea calitatii este un concept care include ansamblul activitatilor
+planificate si sistematic implementate în cadrul sistemului calității și
+demonstrate (dovedite / probate) ca fiind necesare pentru generarea
+încrederii corespunzătoare în faptul că o entitate va satisface cerințele
+referitoare la calitate.
+Conceptul de asigurarea calității a apărut în anul 1950 în SUA și a fost
+aplicat în primul rând în industria spațială și în cea nucleară, apoi s’a extins
+în alte domenii prin aparitia familiei de standarde ISO 9000.
+PAGINA 16
+Asigurarea calității (2)
+La baza imbunatatirii
+calitatii este ciclul de
+activități următor:
+Planifica (munca)
+Realizeaza (planul)
+Verifica (rezultatul)
+Actioneaza (pentru
+a îmbunătăți
+performanța)
+Rezultatele unei etape
+reprezinta intrările
+următoarei etape.
+PAGINA 17
+Instrumente și tehnici pentru
+asigurarea calității
+Audituri ale calității: un audit al calității reprezinta o examinare sistematică și
+independentă în scopul de a determina dacă activitățile referitoare la calitate și
+rezultatele aferente satisfac dispozițiile prestabilite si dacă aceste dispoziții sunt
+puse în practica în mod efectiv și sunt corespunzătoare pentru a atinge obiectivele.
+Unul din scopurile auditului calității este de a evalua necesitatea de îmbunătățire a
+performanțelor proiectului.
+Inspectia calității se bazeaza pe
+eșantionare și controlul statistic
+al proceselo
+PAGINA 18
+Controlul calității (1)
+Controlul calității include supravegherea rezultatelor specifice efectuate în
+vederea avansării calității totale. Acest proces este asociat foarte des cu
+instrumentele și tehnicile tehnice de gestionare a calității ca diagrame Pareto,
+grafice de control al calității și altele similare. Controlul calității ar putea fi piesa
+cea mai importantă a întregului puzzle de management al calității proiectului,
+deoarece corectarea oricăror probleme cât mai curând posibil economiseste
+timp și bani pierduți
+PAGINA 19
+Controlul calității (2)
+Obiectivele controlului calității:
+1. Să stabilească standardele de calitate dorite ce sunt acceptabile pentru clienți
+2. De a descoperi defecte sau variații ale materiilor prime și ale proceselor de fabricație
+pentru a asigura o producție netedă și neîntreruptă.
+3. Să evalueze metodele și procesele de producție și să sugereze îmbunătățiri
+suplimentare în funcționarea lor.
+4. Să studieze și să determine gradul de deviere a calității într-un produs în timpul
+procesului de fabricație.
+5. Analiza detaliată a cauzelor responsabile pentru o astfel de abatere.
+6. Să întreprindă astfel de măsuri care sunt utile pentru atingerea calității dorite a
+produsului.
+PAGINA 20
+Controlul calității (3)
+Controlul calității nu oferă calitatea, dar poate identifica probleme în procese
+și poate face sugestii de îmbunătățire.
+Controlul calității este realizat în toate etapele din ciclul de viata al
+proiectului și este efectuat de obicei de un departament de control sau de alte
+echipe cu aceasta responsabilitate.
+PAGINA 21
+Controlul calității (4)
+Rezultatele controlului calității includ performanțele asociate costului și
+programului, livrabile intermediare sau chiar produsul final.
+Se pot face acțiuni care corectează sau care previn anumite situații prin ajustări
+de proces, acestea fiind un alt rezultat al controlului de calitate.
+PAGINA 22
+Instrumente și tehnici
+pentru controlul calității (1)
+Inspectia: cuprinde activități cum ar fi masurarea, examinarea, încercarea sau
+verificarea uneia sau mai multor caracteristici ale unui produs, proces sau
+activitate și compararea rezultatelor cu condițiile specificate cu scopul de a stabili
+dacă rezultatele sunt conforme cu specificatiile. Inspectiile se efectuează asupra
+rezultatelor unor activități individuale sau asupra produsului final al proiectului.
+Ele pot avea diferite denumiri, cu specificatii specifice.
+PAGINA 23
+Instrumente și tehnici
+pentru controlul calității (2)
+Diagramele de control: sunt grafice pe care sunt reprezentate valorile
+rezultatelor unui proces, în funcție de timp. Acestea sunt utilizate pentru a
+vedea dacă procesul este "în stare de control".
+Dacă procesul este "sub control", acesta nu trebuie sa fie ajustat.
+PAGINA 24
+Rezultate ale controlului
+calității proiectelor
+Procese de inbunatatirea calitatii
+Decizii de acceptare: entitățile inspectate (produse,
+procese) vor fi acceptate sau respinse. Dacă sunt
+respinse, entitățile necesita remedierea
+deficientelor.
+Remedierea deficientelor: acțiune de aducere a
+unei entități neconforme in concordanță cu
+condițiile specificate anterior. Echipa trebuie sa
+intreprinda toate eforturile pentru a minimiza
+efectele care conduc la necesitatea remedierii
+deficiențelor.
+Liste de control
+Ajustări ale proceselor: acțiuni corective sau
+preventive imediate, ca rezultat al măsurătorilor în
+cadrul controlului calității proiectului.
+PAGINA 25
+Costul calității (1)
+Costul total al eforturilor de atingere a cerințelor asociate unui
+produs sau serviciu poarta denumirea de costul calitatii. Acesta
+este alcatuit din costul activităților de asigurare a
+conformității cu cerințele si din costul activităților de
+remediere a neconformitatii cu cerințele.
+PAGINA 26
+Costul calității (2)
+Costul de neconformitate (de esec) contine costurile datorate
+refacerii de produse, componente, costuri de garanție, pierderea
+reputatiei.
+Greselile au fost in mod traditional acceptate ca fiind un cost de
+afaceri
+PAGINA 27
+Managementul calității ISO (1)
+Standardul Internațional pentru
+Managementul Calității (ISO 9001)
+adoptă un număr de principii de
+management care pot fi utilizate pentru
+a ghida organizațiile pentru o calitate
+îmbunătățită
+Satisfacția clienților
+Calitatea înseamnă livrarea produsului
+astfel încât cerințele acestuia să
+corespundă așteptărilor clientului. 
+PAGINA 28
+Managementul calității ISO (2)
+Prevenire pe baza de inspecție
+Inspecția poate reduce probabilitatea defectelor, dar prevenirea prin
+planificare, proiectare și construire în calitate poate reduce această
+probabilitate de defecte pentru un cost mult mai mic decât prin procesul
+de inspecție.
+PAGINA 29
+Managementul calității ISO (3)
+Perfectionarea continua
+Se face pe baza elementelor de preventive si a evaluarii satisfactiei
+clientilor
+Responsabilitatea managementului
+Aprobarea și participarea activă a conducerii.
+PAGINA 30
+Managementul calității ISO (3)
+Costul calității
+Acesta este costul implementării standardelor de calitate. De ex, în cazul
+în care defectul este prins înainte ca produsul să fie livrat clientului,
+acesta este costul intern al neconformității și implică dezmembrarea părții
+sau redeschiderea acesteia astfel încât să fie în conformitate cu
+standardele de calitate.
+PAGINA 31
+Concluzii
+Calitatea trebuie sa fie planificată, nu doar examinata
+Dezvoltarea unei echipe pentru managementul calității unui proiect facilitează
+desfășurarea proiectului în conformitate cu cerințele clientului
+Folosirea unor instrumente este esențială în execuția programelor de calitate;
+aceste instrumente asista managerul de proiect în identificarea deviațiilor de la
+standarde
+Costul de calitate include și costul de conformitate și costul de neconformitate
+Ciclul de activitati Planifica-Realizeaza-Verifica-Actioneaza aduce o îmbunătatire
+continua si reprezinta o baza pentru îmbunătatirea calitatii
+
+
+
+CURS 7
+PAGINA 1
+Management de proiect
+PAGINA 2
+Curs 7
+Managementul
+resurselor umane
+PAGINA 3
+Abordare generala
+PAGINA 4
+Definitie
+Managementul resurselor umane (MRU sau RU) reprezintă o
+abordare strategică a gestionării eficiente a persoanelor dintr’o
+companie sau organizație, astfel încât acestea să-și ajute afacerea
+să obțină un avantaj competitiv. Acest concept este proiectat
+pentru a spori performanța angajaților din punct de vedere al
+obiectivelor strategice ale angajatorului
+PAGINA 5
+Principii
+Comprehensivitate 06
+07
+08
+09
+05 10
+04
+03
+02
+01
+Coerență
+Control
+Comunicare
+Credibilitate
+Implicare
+Schimbarea
+Competența
+Creativitatea
+Eficiența costurilor
+Pentru ca management-ul resurselor umane să fie eficient, acesta ar trebui să respecte următoarele 10  
+caracteristici
+PAGINA 6
+Principii
+Aprecierea factorului uman ca o resursă vitală;
+Corelarea a politicilor şi sistemelor privind resursele umane cu
+misiunea şi strategia organizaţiei;
+Direcționarea capacităţilor şi eforturilor individuale în vederea
+realizării eficiente a misiunii şi obiectivelor stabilite;
+Dezvoltarea unei culturi organizaţionale sănătoase.
+PAGINA 7
+Obiective
+Obiectivele urmărite de managementul resurselor umane:
+i. Să ajute organizația să îsi atingă scopurile;
+ii. Să folosească eficient abilitățile și deprinderile forței
+de munca;
+iii. Să ofere organizației angajați bine pregătiți și motivați;
+iv. Să sporească nivelul de satisfacție al angajatului față
+de locul de munca;
+v. Să comunice politicile de personal tuturor angajaților;
+vi. Să ajute la menținerea eticii profesionale;
+vii. Să ajute introducerea schimbarilor benefice pentru
+indivizi, grupuri, organizație și pentru public.
+PAGINA 8
+Activitati specifice
+i. Planificarea resursei umane;
+ii. Elaborarea fişelor de post;
+iii. Recrutarea, selectarea şi orientarea resursei umane;
+iv. Evaluarea performanţelor individuale şi colective;
+v. Dezvoltarea resursei umane;
+vi. Recompense şi beneficii specifice locului de muncă;
+vii. Sănătatea şi siguranţa personalului;
+viii. Disciplina, controlul şi evaluarea funcţiilor personalului;
+ix. Programarea muncii.
+PAGINA 9
+Organizarea RU
+Procesul de asignare a rolurilor și a responsabilităților, persoanei sau grupului de
+persoane potrivit.
+Organizarea identifica persoanele implicate în proiect și determină care este rolul
+acestora.
+Proceduri bine stabilite pe care Managerul de Proiect trebuie sa le urmeze.
+Departamentul de HR ar trebui sa
+specifice:
+Responsabilitatea postului
+Structura ierarhică
+Rolul Managerului de Proiect
+Reguli în cadrul echipei
+Definirea procesului de
+mentoring/coaching
+PAGINA 10
+Rolul managerului
+ Administrativ si Comportamental: Cele administrative se axeaza pe
+personalul efectiv, compensari si partea de guvernare a companiei.
+Comportamentale sunt elementele de echipa, conflicte, recompense si
+motivare.
+Generează valoare pentru Companie
+Natura integrativa
+Mentor pentru echipa de proiect
+Liant in comunicarea cu stakeholders
+Motivan
+PAGINA 11
+Organigrame
+modalitatea grafică de reprezentare a relațiilor de raportare din
+cadrul proiectului.
+PAGINA 12
+Introducere in planificare
+Maparea rolurilor, trasarea nivelului ierarhic
+Context si reguli de raportare
+Masurarea performantelo
+PAGINA 13
+Introducere in planificare
+Monitorizarea
+nevoii de noi
+angajați
+Monitorizarea
+disponibilităților
+viitoare de
+resurse umane
+Crearea unor
+planuri care să
+ducă la potrivirea
+cererii cu oferta
+Asigurarea cu
+personalul necesar pe
+profesii, meserii,
+niveluri de pregătire, și
+grupe de vârstă.
+Scopul Planificarea MRU Obiective
+Preîntâmpină apariţia
+dezechilibrelor majore.
+Oferă perspectivă clară
+a dezvoltării resurselor
+umane ale organizaţiei.
+Atrage și păstrează
+numărul necesar de
+oameni, cu aptitudinile
+și cunoștințele
+necesare.
+PAGINA 14
+Fazele planificarii
+i. evaluarea resurselor umane necesare în perspectivă în funcţie de volumul
+previzionat al activităţii viitoare;
+ii. analiza situaţiei disponibilităţii cantitative şi calitative a forţei de muncă
+existente şi a utilizării acesteia;
+iii. analiza posibilităţilor de asigurare din cadrul organizaţiei a resurselor
+umane necesare;
+iv. analiza posibilităţile de asigurare din exteriorul organizaţiei;
+v. planificarea propriu – zisă a resurselor umane;
+vi. stabilirea necesarului cantitativ pe profesii, meserii, vârste;
+vii. actualizarea permanentă a planului.
+PAGINA 15
+Fazele planificarii
+Inițial, managerul de proiect
+va identifica necesarul
+teoretic de resurse.
+Estimările vor fi formulate,
+nu doar pentru efortul de
+ansamblu, dar și pentru
+categoria specifică a
+resursei.
+Este necesară corelarea cu
+realitatea organizațională 
+Trebuie răspuns la întrebări
+precum: Există astfel de
+oameni? Cine autorizează
+utilizarea resursei?
+PAGINA 16
+Recrutarea RU
+Scopul  necesarul
+de resurse umane 
+cost minim
+Recrutarea RU analiza
+posturilor și proiectarea
+muncii
+Automatizare
+Reorganizare
+Externalizare
+PAGINA 17
+Scopul recrutării
+Se bazeaza pe capacitatea managerului de a identifica necesitatile
+proiectului
+Planifica modul de rezolvare a constrangerilor
+Fiecare proiect este unic, dar se poate baza pe experienta managerului
+Definitie: Recrutarea resurselor umane
+este activitatea permanentă de identificare
+și atragere în timp util a unor candidați ce
+îndeplinesc condițiile necesare
+pentru ocuparea posturilor existente sau
+pentru cele de perspectivă.
+PAGINA 18
+Obiectivele recrutării
+► Orice recrutare de personal are următoarele obiective:
+i. Să aleagă de pe piața muncii un număr cât mai mare de candidați, astfel
+incat cei care îndeplinesc condițiile să poata fi selectați;
+ii. Să aleagă candidații cu pregătirea necesară care să satisfacă cerințele
+locului de muncă și care se arată interesați de organizație;
+iii. Să ocupe cât mai repede posturile noi sau vacante și cu costuri cât mai
+mici.
+PAGINA 19
+Procesul de recrutare
+Procesul de recrutare cuprinde mai multe etape. Fiecare companie decide
+cât de importantă este parcurgerea acestor etape.
+Recrutarea: se referă la procesul de a angaja noi persoane, identificarea
+și atragerea celor interesați în a candida pentru posturile oferite.
+Selecția: este stadiul final al luării deciziei în procesul de recrutare,
+reprezentând procesele prin care se aleg persoanele care întrunesc cunoștințele
+și aptitudinile necesare postului.
+PAGINA 20
+Procesul de recrutare
+Definirea postului - sunt prezentate detaliat postului și abilitățile
+necesare
+Atragerea candidaților - prin recrutare interna sau externa
+organizației
+Selecția - se va reține un grup de candidați potriviți pentru post
+Interviul:
+phone screening,
+interviul fata în fata
+diverse teste
+Interviurile ulterioare cu managerul de resurse umane
+PAGINA 21
+Procesul de recrutare
+Factori ce trebuie avuți în vedere:
+Factori de mediu (disponibilitate, competențe, experiență etc.)
+Activitățile procesului organizațional
+Rolul și responsabilitățile
+Organigramele realizate în etapa de planificare
+Planul de management al personalului
+PAGINA 22
+Procesul de recrutare
+Nu se referă la o angajare
+propriu-zisă, ci doar o
+schimbare de post.
+Organizațiile cunosc mult mai
+bine candidații interni, astfel
+selecția este mult mai rapidă
+Metode de
+recrutare
+Recrutarea internă Recrutarea externă
+Presupune angajarea de
+personal din exterior prin diferite
+metode:
+Internet
+Anunțuri
+Recrutarea proaspeților
+absolvenți
+Internship
+PAGINA 23
+Procesul de recrutare
+Pentru recrutarea internă se folosesc diverse modalități, cum ar fi:
+i. informarea angajaților intreprinderii prin diferite mijloace: afisaj, note de serviciu,
+publicarea in buletinul de informare al intreprinderii;
+ii. consultarea fiselor salariatilor pentru a depista potețialii candidati la ocuparea
+postului;
+iii. utilizarea planurilor privind perspectivă profesionala in întreprindere, pe baza lor
+putandu-se stabili candidatii ce întrunesc conditiile pentru ocuparea postului.
+Pentru recrutarea externă :
+i. candidaturi directe făcute organizatiei de către diferiti solicitanti
+ii. contactarea viitorilor absolventi ai liceelor, colegiilor, universitatilor;
+iii. recrutarea prin internet;
+iv. angajarea elevilor și studentilor pe durata vacanței de vara;
+v. apelarea la oficiile de munca si protectie sociala si la centrele teritoriale de
+înregistrare a șomerilor;
+vi. contacte permanente cu târgurile de locuri de munca;
+vii. efectuarea de vizite în întreprinderile care recurg la reduceri de personal calificat în
+meseriile specifice activității firmei.
+PAGINA 24
+Procesul de recrutare
+Instrumente și tehnici utilizate:
+Pre-atribuirea personalului pe proiect pe baza disponibilității, în
+concordanță cu propunerea de proiect sau în funcție de expertiza
+realizată în proiect
+Negocierea cu managerii funcționali sau cu manageri de proiecte
+din alte proiecte
+Contractarea de servicii sau resurse umane externe
+Echipe virtuale
+PAGINA 25
+Gestiunea Personalului
+Relațiile dintre angajați necesită muncă, comunicare și
+management, care de multe ori intră în competența
+departamentelor de resurse umane.
+Formarea în relațiile cu angajații este menită să ajute managerii de
+resurse umane să se asigure că angajații sunt fericiți, bine informați
+și se simt motivați.
+PAGINA 26
+Team-building
+Activitățile de team building sunt metode de îmbunătățire a
+performanțelor unei echipe prin completarea unor obiective.
+Definirea regulilor pentru gestionarea neînțelegerilor
+Activități în aer liber
+Activități ce presupun munca în echipă
+Activități ce îmbunătățesc relațiile interpersonale
+PAGINA 27
+Dezvoltarea resursei umane
+Dezvoltarea resursei umane reprezinta procesul de definire,
+creare și asigurare a oportunităților de învatare, dezvoltare și
+instruire pentru angajați, în vederea îmbunătățirii
+performanțelor individuale, de echipă și organizaționale.
+Obiectivele formării și perfecționării angajaților sunt:
+i. ajutarea acestora în atingerea unui maxim de performanță în realizarea muncii
+lor;
+ii. pregatirea lor pentru evoluția viitoare a locurilor de munca.
+PAGINA 28
+Dezvoltarea resursei umane
+Cursuri
+Shadowing
+Mentorat
+Rotația în funcție
+Dezvoltarea resurselor umane reprezintă
+preocuparea de a îmbunătăţi abilităţile
+intelectuale sau emoţionale necesare unui
+angajat pentru a-şi îndeplini mai bine funcţia. 
+PAGINA 29
+Învățare și dezvoltare
+Vizează îmbunătățirea competențelor echipei și a interacțiunii membrilor pe care
+echipa îi are în componență cu scopul de a spori performanța pe tot parcursul ciclului
+de viață al proiectului.
+Obiective:
+îmbunătățirea abilităților membrilor echipei de proiect (pentru a crește capacitatea
+angajaților de a finaliza activitățile proiectului)
+creșterea productivității (prin sporirea încrederii pe care o resimt din partea
+membrilor echipei)
+PAGINA 30
+Învățare și dezvoltare
+Multe departamente și manageri de resurse umane se implică, de asemenea, într-o
+oarecare măsură în planificarea și organizarea activităților de învățare și dezvoltare
+pentru personalul lor.
+Cursurile din acest domeniu îi ajută pe cei responsabili să devină competenți în
+planificarea și / sau dezvoltarea formării necesare pentru dezvoltarea angajaților.
+Participarea la cursuri, individual sau în echipă poate fi benefică prin extinderea
+abilităților și creșterea performanței.
+PAGINA 31
+Evaluarea performanței
+Performanța optimă a unei echipe este un proces de lunga durata. Din acest motiv
+se face evaluarea performanței, cu scopul de a remodela și îmbunătăți nivelul de
+performanță.
+Evaluarea performanței este de două feluri:
+Individuală: îmbunătățiri ale aptitudinilor individuale ce permit finalizarea mai
+rapidă și mai calitativă a responsabilităților
+De Echipă: îmbunătățiri la nivelul echipei crește calitatea și viteza în completarea
+proiectului.
+PAGINA 32
+Interfete
+Interfetele sunt acele persoane sau grupuri de persoane ce fac parte dintr-o
+echipa de implementare a unui proiect. Interfetele se clasifica in trei categorii:
+Organizationale – lucreaza in cadrul organizatiei ce a preluat proiectul
+respectiv. Poate cuprinde divizii multiple si gradul lor de implicare poate
+fluctua in timp, in functie de necesitati.
+Tehnice – descriu legaturile dintre proiect si factorii ce il implementeaza. Pot
+veni cu pareri, expertiza, experienta si pot avea un rol atat in cadrul etapelor
+de implementare cat si intre acestea (ca un sistem de feedback si recenzie a
+progresului).
+Interpersonale – se aplica in cadrul echipei de implementare si descriu
+nivelurile de raportare ierarhica 
+PAGINA 33
+Autoritatile managerului
+PAGINA 34
+Autoritatile managerului
+a) Legitimare – este o metoda formala de a spune ca managerului de proiect
+i-a fost asignat (sau si-a ales) respectivul proiect in conformitate cu acordul
+echipei de guvernare a companiei sau a superiorilor sai
+b) Recompensa – se pot introduce tehnici de rasplatire a angajatilor ce
+performeaza in organizatie. Spre exemplu, proactivitatea este incurajata mai
+mult sau mai putin direct.
+c) Coercitivitate – reversul subpunctului anterior, are rolul de a limita
+comportamentele ce nu sunt benefice evolutiei proiectului sau a companiei in
+general
+d) Expertiza – managerul de proiect trebuie sa fie foarte bine familiarizat cu
+principala tehnologie folosita sau implementata pe parcursul proiectului
+e) Referent – aceasta este o abilitate detinuta de manager prin echipa sa. In
+momentul in care echipa doreste sa fie ca managerul lor, el devine un exemplu
+pentru acestia. Carisma este o unealta puternica care, daca este folosita corect,
+poate incuraja echipa. 
+PAGINA 35
+Teorii organizationale
+a. Piramida de Nevoi Maslow
+Orice persoana lucreaza pentru a isi îndeplini un set de nevoi
+Nevoile se afla structurate pe nivele ierarhice
+PAGINA 36
+Teorii organizationale
+b. Teoria Motivației: A fost dezvoltata de
+Frederick Herzberg, un psiholog si specialist in
+tehnicile motivationale in spatiul de lucru.
+Conform acestuia, exista doi factori
+fundamentali ce definesc succesul indivizilor:
+i. igiena – aici se incadreaza marea majoritate a
+asteptarilor angajatilor (securitatea unui loc de munca,
+securitatea unui salariu lunar, conditii curate si sigur
+e
+de munca, un sentiment de apartenenta, s.a.)
+ii. agenti motivatori – aici se incadreaza factorii ce imping
+o persoana catre succes si excelenta (responsabilitate,
+educatie, apreciere, s.a.)
+In conformitate cu aceasta teorie, prezenta factorilor de la i. nu vor motiva angajatii
+sa isi depaseasca limitele, deoarece acestia sunt luati ca atare. In schimb, lipsa lor
+va fi resimtita si va avea un impact corespunzator. Pentru ca proactivitatea si
+excelenta sa se faca resimtite, factorii ii. sunt necesari.
+Motivatori
+Actualizare
+Recunoaştere
+Munca pentru sine
+Responsabilitate
+Avansare
+Igienici
+Relaţii interpersonale
+Politica firmei
+Control
+Salarii
+Condiţii de muncă
+PAGINA 37
+Teorii organizationale
+C. Teoria X si Y a lui McGregor prevede faptul ca orice angajat se afla intruna din doua extreme:
+i. Angajat de tip X – acestia sunt nedoriti, trebuiesc supravegheati continuu, si nu
+trebuie avut incredere in ei. X evita munca, responsabilitatea si nu are abilitatile
+necesare pentru a excela.
+ii. Angajat de tip Y – acestia sunt de dorit, sunt autodidacti, motivati si proactivi
+PAGINA 38
+Teorii organizationale
+d. Teoria Z William Ouchi a elaborat teoria
+conform careia lucratorii sunt motivati de un
+sentiment de angajament. Aceasta teorie
+este bazata pe mentalitatea japoneza
+conform careia o persoana lucreaza deregula
+la o companie ’pe viata’, fiind de parere ca
+daca companiei ii este bine, si lui ii este bine. 
+PAGINA 39
+Teorii organizationale
+e. Teoria Așteptărilor
+Angajatii se vor comporta in organizație corespunzător asteptarilor lor
+Angajatul e cu atat mai productiv, cu cat se asteapta sa fie recompensat
+mai mult
+PAGINA 40
+Evoluția echipei
+Managerul se poate folosi de:
+1) alocarea angajatilor – in functie de alocarea membrilor, se pot defini
+abilitatile la care echipa poate avea acces, nevoia lor de a se dezvolta, si
+abilitatea de a concura pentru noi sarcini
+2) planul de proiect – poate defini asteptarile echipei, modul in care aceasta
+poate opera, cum va comunica, s.a.
+3) planul de gestiune a angajatilor – modul in care personalul a fost
+’recrutat’ poate da detalii cu privire la viitoare disponibilitati ale acestora
+4) rapoarte de performanta – pot reflecta calitatea muncii depuse, daca
+sarcinile au fost terminate la timp, rata de succes a echipei, s.a.
+5) recenzii sau pareri externe – pot fi primite de la partile interesate,
+analizate si utilizate pentru a imbunatati performantele echipei
+PAGINA 41
+Aplanarea conflictelor
+PAGINA 42
+Aplanarea conflictelor
+Important de avut in vedere sunt conceptele ce stau la baza perspectivei
+moderne a analizei de conflict:
+conflictul este inevitabil, datorita prezentei interactiunii interpersonale;
+conflictul poate sa fie uneori benefic;
+conflictul poate avea un caracter imprevizibil (daca managerul de proiect
+nu stie sa analizeze unele semne din timp);
+conflictul poate fi rezolvat exclusiv prin analiza cauzei ce l-a generat. 
+PAGINA 43
+Aplanarea conflictelor
+PAGINA 44
+Rasplatirea echipei
+In ceea ce tine de rasplatirea angajatilor, un sistem
+de recompense incurajeaza si motiveaza performantele sau
+comportamentele benefice.
+Acest sistem trebuie sa se afle intr’o stare formalizata,
+clara, accesibila oricarui angajat. De asemenea, cultura
+organizationala are un important aport in modul in care aceste
+recompense sunt acordate si importanta pe care ele le pot avea
+in companie.
+Echipele aflate intr-o companie distribuita geografic genereaza
+un alt set de provocari. Initial, datorita distantei fizice dintre
+persoane, impulsul acestora este de a nu lucra sau a nu distribui
+informatia la fel de usor fata de situatiile in care angajatii s-ar
+afla sub acelasi acoperis. Este de datoria managerului de echipa
+sa invinga aceste provocari si sa aduca echipa laolalta, daca nu
+fizic, macar psihologic. 
+PAGINA 45
+Matricea de asignare a
+responsabilitatilor
+Graficul RACI (R- Responsabil, A – Raspunzator (en. Accountable), C –
+Consultat, I – Informat) indica nivelul de implicare si responsabilitate
+PAGINA 46
+Directionarea efortului
+1. Definirea nevoilor organizationale
+2. Recrutarea celor mai buni aplicanti
+3. Axarea pe capacitatile angajatilor
+4. Crearea unei ierarhii organizationale
+5. Masurarea cu precizie a indicatorilor
+PAGINA 47
+Concluzii
+1. Definirea nevoilor organizationale –
+angajatii unei comanii trebuie sa fie in
+stare sa defineasca simplu si clar de ce
+compania in care acestia activeaza
+exista, care ii este telul, cum isi
+pastreaza sustenabilitatea si
+performantele intr-un spatiu de munca
+din ce in ce mai competitiv.
+2. Recrutarea doar a celor mai buni
+pretendenti pe baza Principiilor
+Companiei – o buna parte din relatiile
+defectuoase angajat-angajator vin de
+pe urma unor campanii eronate de
+promovare a companiei. 
+PAGINA 48
+Concluzii
+3. Axarea pe capacitatile angajatilor – companiile trebuie sa depuna un efort suplimentar pentru a isi da
+seama de valoarea, capabilitatile si slabiciunile fiecarui angajat si sa actioneze ca atare; sa puna accent pe
+ceea ce scoate in evidenta respectiva persoana, incercand in acelasi timp sa minimizeze aria de defecte pe
+care o poate manifesta.
+Planificarea
+resurselor umane
+Analiza postului
+Recrutarea și
+selecția
+personalului
+Instruirea și
+dezvoltarea
+Administrarea
+personalului
+PAGINA 49
+Concluzii
+4. Crearea unei ierarhii organizationale –
+o metoda de raportare clara aduce multe
+beneficii ce vor avea un impact direct in
+viata de zi cu zi si productivitatea
+angajatilor.
+5. Masurarea cu precizie a acelorasi
+indicatori – toate departamentele trebuie
+sa alinieze elementele ce tin de
+cuantificarea performantelor angajatilor
+lor; orice discrepante pot introduce
+alienari intre angajati si acest lucru nu
+este dorit. 
+
+
+
+CURS 8
+PAGINA 1
+Management de proiect
+PAGINA 2
+Curs 8
+Managementul
+comunicarii
+PAGINA 3
+Introducere
+În cadrul oricărei organizaţii, comunicarea reprezintă un proces
+esenţial prin care are loc schimbul de mesaje şi informaţii
+Comunicarea managerială reprezintă o formă de comunicare
+interumană, un instrument de bază al managerului, cu ajutorul
+căruia acesta îşi poate exercita atribuţiile manageriale
+Mesajele şi informaţiile comunicate sunt supuse unui proces de
+interpretare şi prelucrare din partea fiecărui membru al organizaţiei,
+care urmăreşte evaluarea şi selectarea datelor relevante
+PAGINA 4
+Comunicare
+Comunicarea reprezinta actiunea de a comunica si rezultatul ei, conform
+Dictionarului Explicativ al Limbii Romane. A comunica, conform aceleiasi
+surse, inseamna a face cunoscut, a da de stire, a informa.
+“Comunicarea managerială este un important instrument de
+implementare a schimbărilor, a strategiilor, având implicații majore asupra
+calității și eficienței managementului.” —G.E. Myers
+Daca comunicarea este un proces de transmitere a informatiei, putem
+defini 3 componente ale acestuia:
+- emitator si receptor
+- mesaj
+- canal de comunicare
+PAGINA 5
+Comunicare
+Comunicarea
+managerială
+Reprezintă o formă de comunicare
+interumană, un instrument de bază al
+managerului, cu ajutorul căruia acesta
+își poate exercita atribuțiile
+manageriale:
+Comunicarea
+Comunicarea este un proces
+bidirecțional între oameni aflați la
+diferite nivele ierarhice, în cadrul
+tuturor funcțiunilor care are loc în sus,
+in jos sau pe orizontala.
+Managementul
+comunicării
+Este compus din patru procese:
+Planificarea Comunicării, Distribuirea
+informației, Raportarea Performantei,
+Managementul Stakeholderilor.
+PAGINA 6
+Comunicare – Model Lasswell
+Caracterizeaza abordarea clasica a scolii behavioriste, comunicarea
+fiind asociata traseului unui stimul (informatie) care produce un
+raspuns (impact).
+Aceasta abordare liniara are scopul de a raspunde la urmatoarele
+intrebari:
+- Cine?
+- Ce zice?
+- Prin ce mijloace?
+- Cui?
+- Cu ce efecte?
+PAGINA 7
+Comunicare – Model Shannon
+pe langa aspectele tratate in schema precedenta, se introduc notiunile
+de codificare si decodificare, abordand astfel si problematica blocajelor
+in comunicare
+PAGINA 8
+Comunicare – Model Wiener
+In raport cu modelul Shannon, se adauga feedback-ul, prin care emitatorul
+poate cunoaste modul de receptionare a mesajului.
+PAGINA 9
+Comunicarea in proiecte
+In cadrul unui proiect, comunicarea joaca un rol crucial,
+si poate preveni multe dintre problemele ce apar pe
+parcursul derularii acestuia, un Manager de Proiect
+petrecandu-si aproximativ 80% din timp comunicand
+PAGINA 10
+Comunicare in proiecte
+Prin prisma unui proiect, managementul comunicarii trebuie sa adreseze
+urmatoarele aspecte:
+- Ce informatii trebuie sa intre in/sa iasa din proiect ?
+- Cui ii foloseste informatia?
+- Cand este informatia necesara?
+- Care este formatul informatiei?
+- Cine este responsabil de transmiterea informatiei ?
+PAGINA 11
+Comunicare in proiecte
+Managementul comunicării – crearea unei legături strânse între toate entitățile
+implicate în realizarea proiectului, cu scopul de a transmite informații, materiale și
+cunoștințe.
+PAGINA 12
+Straregia comunicarii
+Etapa 1: Identificare obiective;
+Etapa 2: Formularea mesajului;
+Etapa 3: Metode si canale de comunicare;
+Etapa 4: Planificarea si organizarea;
+Etapa 5: Stabilirea bugetului;
+Etapa 6: Evaluarea
+PAGINA 13
+Planificarea comunicării
+Pași de urmat:
+Stabilirea scopului
+Stabilirea resurselor necesare
+Stabilirea echipei de proiect
+Planificarea comunicării în proiect
+PAGINA 14
+Planificarea comunicării
+Intrări:
+- Planul de management
+al proiectului
+- Documente relevante
+Tehnici & Instrumente:
+- Tehnologii de comunicare
+- Metode de comunicare
+- Ședințe
+Ieșiri:
+- Planul de comunicare
+- Alte actualizări
+Planul de comunicare permite furnizarea eficientă de informații către părțile
+interesate și identifică mesajele ce necesită a fi promovate, pe cine vizează și
+pe ce canale trebuie transmise acestea.
+PAGINA 15
+Planul de Comunicare
+Registrul Stakeholderilor
+Matricea de Comunicare
+Flowchartul Comunicarii
+Planul de Escalare
+PAGINA 16
+Planul de Comunicare
+Plan de
+comunicare
+Identificarea
+scopului
+comunicării
+PASUL 1
+Stabilirea
+necesarului
+de resurse
+PASUL 4
+Identificarea
+publicului
+țintă
+PASUL 2
+Proiectarea
+mesajului
+PAGINA 17
+Planul de Comunicare
+Plan de
+comunicare
+Pregătirea
+pentru situații
+de criză
+PASUL 5
+Evaluarea și
+ajustarea
+PASUL 8
+Conectarea cu
+distribuitorii
+mesajului
+PASUL 6
+Crearea unui
+plan de
+acțiune
+PAGINA 18
+Registrul stakeholderilor
+Sponsor : responsabil de finantarea proiectului si in ultima instanta de succesul
+acestuia
+Manager de Program : are vizibilitate asupra proiectului la nivel de portofoliu si este
+responsabil de resursele alocate proiectului
+Stakeholder Cheie : indivizi/organizatii impactate de proiect, care nu se incadreaza
+in nici o alta categorie mentionata
+Boardul de Control : grupul care se ocupa de revizuirea specificatiilor tehnice si
+autorizarea schimbarilor
+Client : beneficiarul proiectului
+Manager de Proiect : are responsabilitatea executiei proiectului
+Echipa de Proiect : indivizii care au un rol in executia proiectului
+Comitetul Strategic : grupul care asigura directia companiei
+Liderul Tehnic : se asigura ca partea tehnica a proiectului este bine efectuata
+PAGINA 19
+Matricea de comunicare
+Poate asista managerul în organizarea comunicării, identificând cine are
+nevoie de ce informații și când;
+Reprezintă o modalitate ușoară de a ține stakeholder-ii la curent;
+Prezintă următoarele beneficii:
+comunicare îmbunătățită între departamente;
+utilizarea mai eficientă a resurselor;
+luarea mai rapidă a deciziilor.
+PAGINA 20
+Matricea de comunicare
+Este formata dintr-un tabel, care
+include urmatoarele informatii:
+Tipul comunicarii
+Obiectivul comunicarii
+Canalul de comunicare
+Frecventa comunicarii
+Audienta comunicarii
+si
+Responsabilul de comunicare
+Livrabilul comunicarii
+Formatul comunicarii
+PAGINA 21
+Flowchart-ul comunicarii
+Pentru o mai buna intelegere a
+procesului de comunicare, se
+construieste un flowchart. In cazul
+in care exista situatii care nu se
+regasesc in flowchart, managerul
+de proiect este responsabil sa
+discute cu sponsorul proiectului si
+sa ajunga la o intelegere in
+legatura cu ce actiuni trebuiesc
+luate.
+PAGINA 22
+Planul de escalareComunicarea eficienta si rapida este cheia
+unui proiect de succes, astfel este foarte
+important ca toate conflictele
+corespunzatoare comunicarii sa fie
+rezolvate intr-o maniera in care buna
+functionare a proiectului sa nu fie afectata.
+In acest scop este nevoie de un plan de
+escalare, care sa asigure continuarea
+comunicarii in cazul in care nu se gaseste
+o solutie in cadrul echipei de proiect.
+Acesta cuprinde:
+prioritati
+impactul problemei
+autoritatea de decizie
+timpul de rezolvare
+PAGINA 23
+Planificarea comunicării
+CEO Stakeholders
+Project Manager
+Lead of Dept. 1 Lead of Dept. 2
+Dept. 1 Dept. 2
+PAGINA 24
+Planificarea comunicării
+Plan de
+comunicare
+Identificarea
+scopului
+comunicării
+PASUL 1
+Stabilirea
+necesarului
+de resurse
+PASUL 4
+Identificarea
+publicului
+țintă
+PASUL 2
+Proiectarea
+mesajului
+PAGINA 25
+Planificarea comunicării
+Plan de
+comunicare
+Pregătirea
+pentru situații
+de criză
+PASUL 5
+Evaluarea și
+ajustarea
+PASUL 8
+Conectarea cu
+distribuitorii
+mesajului
+PASUL 6
+Crearea unui
+plan de
+acțiune
+PAGINA 26
+Sablonul comunicarii
+PAGINA 27
+Implementare, monitorizare,
+revizuire
+Dupa aprobarea Planului de Comunicare de catre
+Stakeholderi, acesta trebuie implementat pe toata
+durata proiectului. Fiecarei comunicari ii este asignata
+un responsabil, care trebuie sa se asigura ca actiune
+a
+mentionata in plan este respectata. Cu toate acestea,
+Managerul de Proiect (pentru proiecte mici si mijlocii)
+sau Managerul de Comunicare (pentru proiecte mari)
+supervizeaza in permanenta activitatile de comunicare,
+pentru a se asigura ca asteptarile si cerintele
+stakeholderilor si ale proiectului sunt comunicate
+corespunzator.
+Urmarirea Planului de Comunicare
+Cerinte ad-hoc
+Mentinerea relatiilor stranse cu stakeholderii
+Imbunatatirea Planului de Comunicare
+PAGINA 28
+Managementul Comunicării
+Strategii diferite de comunicare pentru:
+Stakeholders
+Persoane cu nivel înalt de decizie (directori)
+Șefii de departament / Echipa de proiect
+PAGINA 29
+Managementul Comunicării
+Managementul comunicării reprezintă procesul de creare,
+colectare, distribuire, stocare, recuperare și dispunerea finală a
+informațiilor despre proiect în conformitate cu planul de
+management al comunicării.
+Intrări:
+- Planul de comunicare al
+proiectului
+- Rapoarte despre
+performanță
+Tehnici & Instrumente:
+- Metode și tehnologii de
+comunicare
+- Ședințe
+Ieșiri:
+- Modificări ale planului de
+comunicare
+- Alte actualizări
+PAGINA 30
+Managementul Comunicării
+Comunicarea cu Stakeholders:
+Prin canale dedicate
+Updates despre schimbari
+majore
+Input si feedback
+Intalniri Face2face
+Setare obiective
+Prezentare progres
+(milestones)
+Un proiect poate avea mai multi stakeholderi, fiecare dintre acestia avand
+interese si influente diferite asupra proiectului.
+De aceea, este important sa se determine cerintele de comunicare ale
+fiecarui stakeholder, pentru a se asigura succesul proiectului.
+PAGINA 31
+Managementul Comunicării
+Comunicarea cu personae de
+decizie (intern):
+Prin canale dedicate
+Update constant asupra
+progresului
+Strategii de dezvoltare
+Input and Feedback
+PAGINA 32
+Managementul Comunicării
+Comunicarea cu echipa de
+proiect:
+Formală și informală
+Comunicare constantă,
+aproape zilnică
+Ședințe săptămânale cu
+echipa
+Întalniri individuale cu șefii
+de departament
+PAGINA 33
+Controlul comunicării
+ Acest proces se ocupă de controlul și monitorizarea comunicării pe tot
+parcursul ciclului de viață al proiectului, astfel încât nevoia de informații a
+tuturor părților interesate să fie satisfăcută.
+Intrări:
+- Planul de management al
+proiectului
+- Documente relevante
+- Date despre performanțe
+Tehnici & Instrumente:
+- Judecata experților
+- Moduri de reprezentare a
+datelor
+- Ședințe
+Ieșiri:
+- Informații despre
+performanță
+- Solicitări de modificare
+- Alte actualizări
+PAGINA 34
+Controlul comunicării
+• Transmiterea de informații
+• Monitorizare constantă
+• Evaluare
+• Feedback
+Controlul comunicării se asigură că planul de management al comunicării
+este eficient.
+Continua corectare a planului și apoi executarea acestuia previn problemele
+de comunicare ce pot apărea și pot fi responsabile pentru eșecul proiectului.
+PAGINA 35
+Standardizarea comunicarii
+in proiecte
+Pentru simplificarea comunicarii, se folosesc documente, formate, resurse
+standardizate ce vor fi folosite in cadrul proiectului. Un sablon poate face referire la:
+tipuri de intalniri
+tipuri de comunicari
+denumirea fisierelor
+metode de distribuire a informatiilor
+formate ale fisierelor
+PAGINA 36
+Studiu de Caz
+Dezvoltarea unei aplicatii software pentru departamentul de Achizitii
+Registrul Stakeholderilor
+PAGINA 37
+Studiu de Caz
+Matricea de Comunicare
+PAGINA 38
+Studiu de Caz
+Flowchart
+PAGINA 39
+Studiu de Caz
+Procesul de Escalare
+PAGINA 40
+Concluzii
+Comunicarea eficienta sta la baza succesului unui proiect
+Fiecare stakeholder este important pentru proiect si trebuie sa ne asiguram
+ca nevoile ii sunt indeplinite
+Managementul Comunicarii include etapele de planificare, implementare,
+monitorizare si revizuire
+Un plan de comunicare detaliat cuprinde analiza stakeholderilor, matricea de
+comunicare, flowchartul comunicarii si procesul de escalare
+
+
+
+
+CURS 9 
+PAGINA 1
+Management de
+proiect
+PAGINA 2
+Curs 9
+Managementul de risc
+PAGINA 3
+Definirea riscurilor
+Eveniment probabil, generator de pierderi; pericol posibil
+DEX
+Combinație între probabilitatea de producere a unui
+eveniment și consecințele
+acestuia.
+ISO/IEC Guide 73
+Riscul este aesea un eveniment, o modifcare de circumstanțe,
+o consecință, sau o combinație a acestora, și modul încare
+acestea potafecta realizarea obiectivelor
+ISO73 ISO 31000
+Posibilitate de pericol, pierdere, vătămare sau alte consecințe
+negative
+Oxford English Dictionary
+PAGINA 4
+Definire concept
+Riscul implică
+incertitudinea
+viitoare cu privire la
+abaterea de la
+câștigurile
+așteptate sau de la
+rezultatul așteptat.
+01
+Riscul este un
+triplet (Si, Pi, Ci)
+format din scenarii,
+probabilități de
+apariție și
+consecințe.
+02
+Riscul este egal cu
+daunele așteptate.
+03
+Riscul reprezintă
+efectul incertitudinii
+asupra obiectivelor.
+Prin efect se
+înțelege deviația de
+la ceea ce este
+așteptat.
+04
+PAGINA 5
+Modelul sistemic
+PAGINA 6
+Modelul sistemic (extims
+)
+MANAGEMENTUL
+RISCULUI
+Planificarea
+managementului riscului
+Identificarea riscului
+Analiza calitativă a riscului
+Analiza cantitativă a riscului
+Planificarea răspunsului la
+risc
+Monitoriarea și controlul
+riscului
+PAGINA 7
+Tipologie
+A
+C
+B
+D
+Riscuri inerente
+& reziduale
+Operaționale, de
+hazard,
+strategice,
+financiare
+De hazard, de
+incertitudine și
+de oportunitate
+În funcție de
+sursa riscului
+PAGINA 8
+Planificarea managementului
+riscului
+Planificarea în managementul de risc constă în stabilirea persoanelor care
+răspund de fiecare risc în parte, pe toate nivelurile ierarhice și pe toate categoriile
+de risc.
+PAGINA 9
+Planificarea managementului
+riscurilor
+1
+2
+Activități cheie
+Identificarea riscului
+Analiza de risc
+Planificarea reducerii riscurilor
+Implementarea Planului de
+atenuare a riscurilor
+Urmărirea riscurilor
+Planul de
+managemen
+t al riscului
+Un plan de management al
+riscului (RMP) este pregătit de un
+manager de proiect pentru a
+aborda riscurile, impactul
+potențial al acestora asupra unui
+program și constă în modalități de
+reducere a acestor riscuri. 
+PAGINA 10
+Planificarea managementului
+riscului
+Factorul de
+analiză
+Nivelul de
+analiză
+Oportunități Riscuri
+Economic Local/ Național ... ...
+Tehnologic ... ... ...
+Politico – legislativ ... ... ...
+Socio – cultural ... ... ...
+Natural ... ... ...
+Demografic ... ... ...
+Analiza de Macromediu
+PAGINA 11
+Planificarea managementului
+riscului
+Analiza de Micromediu
+Factor de analiză Oportunități Riscuri
+Noii intrați
+Beneficiari
+Produse de substituție
+Furnizori
+Concurenți
+PAGINA 12
+Planificarea managementului
+riscului
+PAGINA 13
+Identificarea riscurilor
+PAGINA 14
+Identificarea riscurilor
+Identificarea riscurilor se poate realiza prin mai multe
+metode:
+Chestionare
+Brainstorming
+Jurnale
+Modele comportamentale
+Diagrame
+Diagramele de flux
+Şedinţe periodice cu personalul implicat
+PAGINA 15
+Identificarea riscurilor
+PAGINA 16
+Identificarea riscurilor
+– intrari
+Definitie: procesul prin care sunt identificate si documentate eventualele riscuri ce pot afecta buna desfasurare a proiectului.
+Pot fi:
+Interne
+Externe
+Marimile de intrare:
+Descrierea produsului: o buna descriere a produsului obtinut in urma finalizarii proiectului poate duce la identificarea unor riscuri
+potentiale
+Iesiri (adiacente) ale proiectului (in alte arii de interes):
+estimarea costurilor si a duratelor, planul de dezvoltare a staff-ului,
+managementul planului de achizitii pentru proiect, etc.
+Alte informatii de referinta: se refera la orice informatie raportata la activitati similare desfasurate in trecut: fisiere asociate proiectului; baze de date, cunostiinte referitoare la proiect (d.e. cunostiinte ale membrilor staff-ului din experienta unor proiecte trecute)
+PAGINA 17
+Identificarea riscurilor
+–
+iesiri (1)
+Sursa de risc: reprezinta identificarea diverselor
+categorii (potentiale) de risc ce pot declansa evenimente ce vor afecta in mod negativ (sau pozitiv) desfasurarea proiectului. Ca posibile surse de risc trebuiesc avute in
+vedere urmatoarele: schimbarea cerintelor proiectului, erori de proiectare, o definire neclara a rolului si
+responsabilitatilor persoanelor implicate in poiect, etc.
+Descrierea sursei de risc trebuie sa contina:
+Probabilitatea de realizare a riscului
+Domeniul posibil de variatie a iesirilor
+Timpul estimat pentru realizarea riscului
+Anticiparea frecventei de realizare a riscului
+PAGINA 18
+Identificarea riscurilor –
+iesiri (2)
+Evenimente cu risc potential: sunt acele
+incidente (d.e. dezastre naturale sau plecarea in
+grup a persoanelor implicate in proiect) care pot
+conduce la perturbarea realizarii proiectului.
+Descrierea acestor evenimente trebuie sa conduca
+la determinarea:
+Probabilitatii de aparitie a evenimentului respecti
+v
+Strategiilor alternative in cazul aparitiei unui asemenea
+eveniment
+Duratei (aproximative) a evenimentului de risc
+Frecventei de aparitie a riscului
+Simptomele riscului, i.e. modalitatile de manifestare ale
+evenimentului cu potential de risc
+PAGINA 19
+Identificarea riscurilor
+–
+tehnici
+Liste de verificare
+(checklist): organizate
+pentru a pune in evidenta sursele de risc
+potential. Trebuiesc avute in vedere:
+contextul procesului, alte iesiri ale
+procesului, aptitudinile tehnice ale
+personalului, etc
+Reprezentari grafice
+(flowchart): permite
+o reprezentare (si o intelegere) mai buna a
+cauzelor si efectelor riscurilor
+Interviuri: orientarea catre risc a
+interviurilor luate stakeholder-ilor in vederea
+identificarii surselor de risc.
+PAGINA 20
+Surse de risc
+Mediu Factori de risc
+Spațiul fizic Dezastre naturale, inundații, furtuni, incendii
+Mediul social Schimbările valorilor, schimbările comportamentului uman, structura socială
+Mediul politic Partidele politice aflate la guvernare, instabilitatea politică, imparțialitatea, corupția
+Mediul
+operațional Activitățile operaționale, defecțiuni tehnice, proceduri nepotrivite, regulament neadaptat
+Mediul legislativ Legislație în continuă schimbare, restricții legislative, drepturi și protecția acestora
+Mediul economic Inflație, schimbarea cursului valutar, rata dobânzii
+Mediul cognitiv Diferența dintre percepție și realitate, neglijența umană
+PAGINA 21
+Cuantificarea / analiza
+riscurilor
+PAGINA 22
+Analiza riscurilor
+Tipologie
+Analiza riscurilor se referă la colectarea și măsurarea informațiilor
+despre risc, astfel încât organizația să poată lua decizii adecvate
+și să le gestioneze corect.
+Implică adesea
+tehnici complexe,
+care necesită de
+obicei utilizarea
+unui program de
+calculator.
+Permite identificarea
+sursei de risc și este
+asociată cu o formă de
+evaluare ce include
+descrierea fiecărui risc și
+impactul/probabilitatea 
+Analiza
+cantitativă
+Analiza calitativă
+PAGINA 23
+Cuantificarea / analiza
+riscurilor
+R1 R2 …. R10
+Probabilitate
+de apariție
+1…3 1…3 1…3
+Impact 1…3 1…3 1…3
+Indicele de risc
+= Probabilitate
+x Impact
+1…9 1…9 1…9
+1 – nivel scăzut
+2 – nivel mediu
+3 – nivel ridicat
+Nivelul de impact și
+nivelul de probabilitate :
+PAGINA 24
+Cuantificarea / analiza
+riscurilor
+PAGINA 25
+Cuantificarea / analiza
+riscurilor – intrari
+Definitie: procesul prin care sunt evaluate atat
+riscurile cat si interactiunea acestora in vederea
+evaluarii efectelor posibile asupra iesirilor
+proiectului.
+Toleranta la risc (a stakeholders)
+Sursele riscului
+Evenimente cu risc potential
+Evaluarea costurilor
+Estimarea duratei activitatilor
+PAGINA 26
+Cuantificarea / analiza
+riscurilor – iesiri
+Lista oportunitatilor ce urmeaza a fi
+urmarite
+Lista evenimentelor ce urmeaza a fi
+ignorate
+PAGINA 27
+Cuantificarea / analiza
+riscurilor – tehnici
+Valoarea monetara asteptata: este formata din doua componente:
+Probabilitatea de realizare a unui risc
+Valoarea evenimentului de risc: o estimare a cresterii / descresterii ce apare in
+cadrul proiectului in cazul in care evenimentul de risc se intampla
+Sume statistice: utilizate pentru calculul costurilor totale ale
+proiectului in raport cu costurile individuale; cuantifica riscul
+bugetelor alternative
+Simulare: utilizeaza o reprezentare (model) a sistemului in vederea
+analizei evolutiei acestuia. Se foloseste in general metoda MonteCarlo
+Arbore de decizie: o diagrama ce descrie interactiunile cheie asa
+cum sunt ele structurate de catre factorii de decizie.
+Judecata expertilor
+PAGINA 28
+Dezvoltarea raspunsului la risc
+PAGINA 29
+Dezvoltarea raspunsului la risc
+Risc Strategie Soluții
+R1 Tolerare /
+Tratare/
+Transferare/
+Eliminare
+Descrierea soluțiilor
+propuse.
+… … …
+R10 Tolerare /
+Tratare/
+Transferare/
+Eliminare
+Descrierea soluțiilor
+propuse.
+PAGINA 30
+Dezvoltarea raspunsului la risc –
+intrari
+Definitie: structureaza pasii de raspuns la evenimente
+Categorii:
+Prevenire: eliminarea unui eveniment prin eliminarea cauzei; PjM nu
+poate elimina toate riscurile, dar anumite riscuri specifice pot fi
+eliminate.
+Imbunatatire: reducerea valorii monetare asteptate in raport cu un
+risc prin reducerea probabilitatii de realizare a riscului.
+Acceptare: acceptarea consecintelor; acceptarea poate fi activa sau
+pasiva
+Intrari:
+Oportunitati de urmat
+Oportunitati de ignorat, evenimente de acceptat
+PAGINA 31
+Dezvoltarea raspunsului la
+risc – iesiri
+Planul de management al riscului: documentarea procedurilor de management a riscurilor, a persoanelor responsabile pentru acest management de risc. Planul poate fi formal sau informal, detaliat sau succint
+Intrari la alte procese: strategii alternative, planuri de contingenta, achizitii anticipate, etc.
+Planuri contingente: actiuni predefinite ce vor fi realizate in cazul in care un risc va avea loc.
+Rezerve: provizioane pentru imbunatatirea costurilor
+sau a agendei riscurilor
+Intelegeri contractuale
+PAGINA 32
+Dezvoltarea raspunsului la
+risc – tehnici
+Planificarea contingenta
+Strategii alternative: eliminarea riscurilor poate
+fi realizata prin adoptarea unor solutii alternative
+Asigurare la risc
+Există o anumită măsura în care un risc este considerat
+tolerabil, iar acea măsură poartă denumirea de “pofta de
+risc” (“risk appetite”). 
+PAGINA 33
+Controlul riscurilor
+Preventive
+Limitează
+posibilitatea obținerii
+unui rezultat nedorit
+Corective
+Corectează
+rezultatele nedorite
+deja realizate
+Directive
+Asigură atingerea
+unui anumit rezultat
+Detective
+Identifică ocaziile în
+care au fost realizate
+rezultate nedorite
+PAGINA 34
+Controlul raspunsului la risc
+PAGINA 35
+Controlul raspunsului la risc
+–
+intrari
+Definitie: cuprinde totalitatea actiunilor prevazute in
+managementul de risc in vederea minimizarii efectelor
+evenimentelor cu risc potential asupra desfasurarii
+proiectului.
+Planul de management al riscurilor
+Evenimentele actuale: sunt identificate acele evenimente
+actuale ce se prezinta ca surse potentiale de risc
+Identificarea de riscuri potentiale: in urma analizei
+evenimentelor de risc si a interdependentelor dintre ele, pot
+fi identificate alte surse potentiale de risc
+PAGINA 36
+Controlul raspunsului la risc
+–
+iesiri
+Actiuni de corectie: constau in actiunile
+aferente raspunsului planificat in vederea
+rejectiei evenimentelor de risc
+Modificarea planului de management de
+risc: pentru minimizarea potentialitatii
+diferitelor evenimente cu grad de risc ce pot
+contribui la perturbarea bunei desfasurari a
+proiectului.
+PAGINA 37
+Controlul raspunsului la risc
+–
+tehnici
+Dezvoltarea unor raspunsuri
+alternative la risc
+Work around: raspunsuri neplanificate la
+evenimente de risc negativ
+PAGINA 38
+Monitorizare
+Măsurile adoptate
+au rezultatul
+așteptat
+Cunoștințele
+îmbunătățite sunt utile
+pentru a lua decizii
+mai bune
+Procedurile
+adoptate şi
+informarea au fost
+potrivite
+PAGINA 39
+Studiu de caz
+Activitatea de identificare a surselor de risc se concretizează într-o listă
+de posibile evenimente cu probabilităţile de apariţie şi efectele pe care
+acestea le pot avea.
+Se considera următorul obiectiv: doresc să călătoresc din punctul A în
+punctul B pentru o întâlnire fixată la un anumit moment de timp. 
+PAGINA 40
+Concluzii
+Orice activitate este supusă riscurilor, existența însăși este o continuă
+asumare a unor riscuri, unele dintre ele putând genera o oportunitate
+pentru obținerea unor beneficii.
+În afaceri există întotdeauna riscul de a pierde, risc care este
+contrabalansat de oportunitatea de a câştiga. Din acest punct de
+vedere, un mare afacerist este acela care îşi asumă riscuri. Dacă este
+foarte precaut sau este împotriva riscului, afacerea nu poate prospera
+pentru că nivelul riscului asumat este determinat întotdeauna de
+nivelul şansei şi volumul câştigului. 
+PAGINA 41
+Concluzii
+IDENTIFY
+RISK
+CONTROL
+RISK
+ASSESS
+RISK
+REVIEW
+CONTROLS
+RISK
+MANAGEME
+NT
+PROCESS
+Identificarea riscurilor
+este esențială pentru
+a preveni daune
+asociate
+Monitorizarea asigură control
+adecvat pentru activitățile
+organizației și pentru modul
+în care procedurile sunt
+înțelese și urmate
+Analiza corectă a
+riscurilor duce la buna
+gestionare a răspunsului
+Controlul este procesul
+permanent ce previne,
+tratează și trage
+concluzii despre risc 
+
+
+
+CURS 10
+PAGINA 1
+Management de
+proiect
+PAGINA 2
+Curs 10
+Monitorizarea, controlul
+si auditul implementarii
+proiectelor
+PAGINA 3
+Terminologie - Definitii -Analiza periodica a activitatilor, resurselor si a rezultatelor
+proiectului.
+-Se realizeaza prin colectarea constanta de informatii din
+diverse surse precum rapoarte, analize si masurarea de
+diversi indicatori.
+-Este un concept ce are la baza un mecanism de analiza
+sistematica, care se bazeaza pe colectarea si analiza
+datelor precum si utilizarea analizei acestora pentru
+progresul proiectului si imbuntatatirea procedurilor existente
+Ce este monitorizarea?
+MONITORIZAREA se refera la toate
+aspectele ce urmaresc performanta
+proiectelor care se bazeaza pe datele/informatiile provenite in urma
+proceselor de:
+Colectare
+Inregistrare
+Raportare 
+PAGINA 4
+Terminologie - Definitii
+-Face referire la toate actiunile necesare pentru a
+evalua rezultatele.
+-Sunt monitorizate elementele organizatiei si rezultatele
+acestora, se identifica modul de indeplinire al
+obiectivelor precum si abaterile care apar.
+- Asemenea monitorizarii, controlul este o functie
+permanenta. 
+Ce este controlul?
+CONTROL = acțiune ce utilizează date
+din activitatea monitorului pentru a aduce
+performanța reală la performanța planificată.
+PAGINA 5
+Ce este auditul?
+AUDIT = procesul de verificare a
+măsurii în care realizarea proiectului a
+respectat regulile și principiile
+managementului de proiect pentru atingerea
+scopului final.
+Terminologie - Definitii
+Această inspecție poate fi realizată după finalizarea
+proiectului, după încheierea unei etape de realizare a
+proiectului sau în timpul realizării acestuia
+PAGINA 6
+Monitorizarea proiectelor
+Intrebari la care trebuie primite răspunsuri pe
+parcursul monitorizarii proiectului:
+1. Sunt îndeplinite sarcinile conform planificării?
+2. Există consecințe neprevăzute care apar ca
+urmare a acestor indeplinirii acestor sarcini?
+3. Cum funcționează echipa într-o anumită
+perioadă de timp?
+4. Care sunt elementele proiectului ce trebuiesc
+schimbate?
+5. Care este impactul acestor schimbări?
+6. Aceste acțiuni vor conduce la rezultatele
+așteptate/mai bune?
+PAGINA 7
+Principala sarcina a monitorizarii o reprezinta
+furnizarea, in timp util, a informatiilor necesare controlului
+efectiv al proiectelor, pentru toate partile interesate.
+Spre deosebire de activităţile de audit şi control,
+activitatea de monitorizare constă în:
+colectarea continuă a informaţiei despre stadiul
+implementării proiectului cu scopul de a corecta
+deficienţele
+evaluarea progreselor intermediare şi oferirea de
+informaţii legate de evoluţia indicatorilor de
+performanţă
+modul în care resursele alocate şi serviciile furnizate
+şi-au atins ţinta
+eventualele schimbări socio-economice care ar
+rezulta în urma implementării unui proiect
+Monitorizarea proiectelor
+PAGINA 8
+Monitorizarea proiectelor
+Monitorizarea proiectului poate fi realizată prin:
+ Ședințe de personal, care pot fi desfășurate
+săptămânal, lunar sau anual.
+Întâlnirea partenerilor
+Recenzii participative ale părților interesate
+Monitorizarea și supravegherea misiunilor
+Statistici sau rapoarte de progres
+PAGINA 9
+Structurarea unui sistem de monitorizare se
+face formuland raspunsuri la irmatoarele intrebari:
+De ce monitorizam ?
+Ce monitorizam ? .
+Cand monitorizam ?
+Cum monitorizam ?
+Monitorizarea proiectelor
+PAGINA 10
+Monitorizarea proiectelor
+Structurarea unui sistem de monitorizare:
+De ce monitorizam ?
+pentru ca lucrurile nu merg intotdeauna conform planului
+pentru detectare si reactionare in mod corespunzator la abateri si
+modificari de plan
+pentru identificarea factorilor cheie ce vor fi controlati
+Ce monitorizam ? .
+Cand monitorizam ?
+Cum monitorizam ? 
+PAGINA 11
+Structurarea unui sistem de monitorizare
+De ce monitorizam ?
+Ce monitorizam ? .
+. INPUT
+Timp
+Active
+Resurse (umane)
+Utilizarea materialelor
+Sarcini
+Calitatea / performanța tehnică
+Cand monitorizam ?
+Cum monitorizam ?
+OUTPUT
+Progres
+Cost
+Inceperea sarcinilor
+Terminarea sarcinilor
+Schimbari
+Ordinea de variatie(VO)
+Monitorizarea proiectelor
+PAGINA 12
+Monitorizarea proiectelor
+Structurarea unui sistem de monitorizare
+De ce monitorizam ?
+Ce monitorizam ? .
+Cand monitorizam ?
+La terminarea proiectului
+Continuu
+Regulat
+Logic
+Atunci cand inca mai este timp de reactionare
+La terminarea sarcinilor
+Repere (milestones)
+Cum monitorizam ? 
+PAGINA 13
+Monitorizarea proiectelor
+Structurarea unui sistem de monitorizare
+De ce monitorizam ?
+Ce monitorizam ? .
+Cand monitorizam ?
+Cum monitorizam ?
+Prin întâlniri cu clienții, părțile implicate în proiect (contractant,
+furnizor, etc.)
+Utilizarea analizei valorilor câștigate
+Calculand ratele critice
+Repere (milestones)
+Rapoarte
+Teste și inspecții
+Livrare esalonată
+PAGINA 14
+Controlul proiectelor
+Controlul reprezinta procesul si activitatile prin care se
+corecteaza abaterile de la planificarea initiala a urmatoarelor
+variabile:
+Timp(program)
+Cost(buget, cheltuieli, etc.)
+Performanta(specificatii, testarea rezultatelor, etc.)
+P
+T
+Timp
+C
+Cost
+Controlul în managementul proiectului este definit ca având un mijloc de măsurare și inițiere a ajustărilor
+în timpul unei activități pentru a aborda modificările nedorite ale costurilor, programului, calității sau
+elementelor de risc care au influențat activitatea
+PAGINA 15
+Controlul proiectelor
+Obiective principale
+Obtinerea rezultatelor dorite prin modificarea activitatilor
+Administrarea resurselor alocate proiectului
+PAGINA 16
+Controlul proiectelor
+Tipuri de control
+Controlul cibernetic .
+
+Controlul de tip merge /nu merge
+Postcontrolul
+PAGINA 17
+Controlul proiectelor
+Tipuri de control
+Controlul cibernetic .
+Se monitorizeaza output-ul unui system
+Se compara cu un standard predefinit
+Daca exista diferente semnificative se actioneaza asupra input-urilor in
+sensul obtinerii unor rezultate mai apropiate de cele dorite
+.
+Controlul de tip “merge /nu merge”
+Postcontrolul
+PAGINA 18
+Controlul proiectelor
+Tipuri de control
+Controlul cibernetic .
+.
+Controlul de tip merge /nu merge
+Consta in testarea indeplinirii unor conditii preliminare inainte de a se trece
+la o actiune
+Poate fi utilizat in toate tipurile de proiect si in toate etapele
+Postcontrolul
+PAGINA 19
+Controlul proiectelor
+Tipuri de control
+Controlul cibernetic .
+.
+Controlul de tip merge /nu merge
+Postcontrolul .
+Se realizeaza dupa parcurgerea tuturor pasilor
+Are ca scop formularea de corectii
+Dupa finalizarea proiectului, se elaboreaza rapoarte finale ce vor contine
+explicatii si recomandari pentru urmatoarele proiecte
+PAGINA 20
+Controlul proiectelor
+Tehnici de monitorizare si control(Analiza valorilor
+castigate
+)
+Valoarea câștigată = mod de a măsura performanța
+generală (nu sarcina individuală);
+folosirea unei măsuri de
+performanță agregată
+Valoarea câștigată a muncii efectuate (valoarea
+finalizată), se calculeaza, pentru acele sarcini aflate în
+desfășurare prin înmulțirea procentului fizic de finalizare
+estimată a lucrării pentru fiecare sarcină cu costul planificat
+pentru sarcina respectiva. Rezultatul il reprezinta suma ce ar
+trebui cheltuită.
+Metode de estimare a procentului de finalizare:
+50% - 50%
+0 – 100%
+CIR (Critical Input Rule)
+Proportionala
+PAGINA 21
+Controlul proiectelor
+Exemplu ( calcul costuri si performanta pana
+in prezent)
+Variabile :
+CV - Cost
+Variance
+BCWP - Budgeted
+Cost of
+Work
+Performed
+ACWP - Actual
+Cost of
+Work
+Performed
+CV = BCWP – ACWP
+SV - Scheduled
+Variance
+BCWP - Budgeted
+Cost of
+Work
+Performed
+BCWS - Budgeted
+Cost of
+Work
+Scheduled
+SV = BCWP - BCWS
+TV - Time
+Variance
+STWP – Scheduled
+Time for
+Work
+Performed
+ATWP - Actual
+Time to
+Perform
+Work
+TV = STWP – ATWP
+Index
+CPI - Cost
+Performance Index
+CPI = BCWP/ACWP
+SPI = Schedule
+Performance Index
+SPI = BCWP/BCWS
+TPI = Time
+Performance Index
+TPI = STWP/ATWP
+PAGINA 22
+Controlul proiectelor
+Exemplu ( calcul costuri si performanta pana in prezent)
+Presupunem că operațiunile pentru implementarea unui proiect costă 1.500 pentru a fi finalizate. Au fost inițial programate să termine astăzi. În acest moment, am cheltuit de fapt 1.350, si estimăm că am finalizat două treimi (2/3) din lucrare.
+Care sunt variațiile de cost (CV) și de program(SV)?
+CV = BCWP – ACWP = 1500 (2/3) – 1350 = - 350 [ CV < 0 => depasire buget]
+SV = BCWP – BCWS = 1500 (2/3) – 1500 = - 500 [ SV < 0 => intarziere]
+CPI = BCWP/ACWP = 1500(2/3)/1350 = 0.74
+SPI = BCWP/BCWS = 1500(2/3)/1500 = 0.67
+Rezultat: Cheltuielile mai mari decât bugetul. Având în vedere ceea ce am cheltuit, nu suntem atât de departe pe cât ar trebui să fim
+(nu am finalizat atâta muncă cât ar fi trebuit)
+SV - Scheduled
+Variance
+BCWP - Budgeted
+Cost of
+Work
+Performed
+BCWS - Budgeted
+Cost of
+Work
+Scheduled
+SV = BCWP - BCWS
+CPI - Cost
+Performance Index
+CPI = BCWP/ACWP
+SPI = Schedule
+Performance Index
+SPI = BCWP/BCWS
+CV - Cost
+Variance
+BCWP - Budgeted
+Cost of
+Work
+Performed
+ACWP - Actual
+Cost of
+Work
+Performed
+CV = BCWP – ACWP
+PAGINA 23
+Controlul vs. monitorizarea
+proiectelor
+Monitorizarea se refera la
+observarea si masurarea diversilor
+indicatori, in timp ce partea de
+control se refera si la constructia
+de procedee si structuri ce
+influenteaza desfasurarea
+proiectului. 
+PAGINA 24
+Exemplu - Metode pentru
+Control
+Masoara progresul unui proiect in lucru in
+termeni de parti completate: suprafața finală
+a clădirii (în mp), cablul pus (în m), numărul
+de uși, ferestre etc. instalat, număr sau prize
+fabricate (în bucăți)
+1. Măsurarea cantităților
+PAGINA 25
+2. Metoda 0 - 50% - 100%
+In cazul in care avem un rezultat pe care nu il putem exprima in
+termeni de parti egale, indicam progresul lucrarii:
+0% pentru „inca nu a inceput”,
+50% pentru „inceput, dar inca nu finalizat”,
+100% pentru „completat”.
+Aceasta functioneaza pentru majoritatea proiectelor de cercetare
+și dezvoltare de dimensiuni medii sau pentru cele de inginerie și
+proiectare
+Exemplu - Metode pentru
+Control
+PAGINA 26
+Exemplu - Metode pentru
+Control 
+3. Estimarea efortului rămas necesar și a duratei
+Pentru proiecte mari de cercetare-dezvoltare sau proiecte de
+inginerie și proiectare, metoda 0 - 50% - 100% ar fi inexactă.
+În acest caz, de obicei, i se cere unui expert rata de finalizare. In
+plus, se recomandă sa fie mentionat procentul ramas in care nu a
+fost realizat inca, tinand cont de efortul si durata necesare.
+PAGINA 27
+Auditul proiectelor
+Auditorul trebuie să aibă autoritatea
+desemnată să conducă auditul și să facă
+recomandări aferente.
+Auditul de proiect este un tip formal de „revizuire a
+proiectului”, cel mai adesea conceput pentru a evalua
+măsura în care sunt respectate standardele de
+management de proiect. Auditul este efectuat de
+obicei de către un departament de audit desemnat.
+PAGINA 28
+Auditul proiectelor
+Rapoartele de auditare:.
+Starea actuala a proiectului: activitatile deja
+derulate sunt in masura sa asigure atingerea nivelului planificat al obiectivelor?
+Starea viitoare: trebuie schimbate termenele
+existente?
+Situatia activitatilor cheie: ce progrese s’au
+inregistrat in activitatile care pot determina succesul
+sau esecul proiectului?
+Determinarea riscurilor: care sunt sansele ca
+proiectul sa esueze sau sa existe depasiri ale bugetului?
+Informatii utile altor proiecte: ce recomandari
+desprinse din derularea acestui proiect pot fi facute
+altor proiecte initiate de firma?
+Limite ale auditarii: ce premise sau limite afecteaza
+auditarea? 
+PAGINA 29
+Auditul proiectelor
+Pasii care trebuie parcursi in procesul de auditare:
+Construirea unei echipe mici de specialisti experimentati
+Familiarizarea echipei cu cerintele proiectului
+Auditarea propriu-zisa
+Scrierea unui raport intr-un format pre-specificat
+Nu exista o forma standard pentru rapoartele de auditare, insa trebuie respectate cateva
+recomandari:
+termeni simpli si directi
+evidentierea clara a principalelor probleme
+evitarea comentariilor negative asupra indivizilor sau grupurilor implicate in
+proiect
+stil clar, profesional
+PAGINA 30
+Pasii care trebuie parcursi in procesul de auditare:
+Scrierea unui raport intr’un format pre-specificat Continutul unui raport
+poate fi sistematizat in urmatoarele capitole:
+Introducere
+Starea actuala
+Starea viitoare a proiectului
+Probleme critice ale managementului
+Analiza riscurilor
+Limite si presupuneri sub care s-a desfasurat auditarea
+Urmarirea raspunsurilor si a realizarii efective a recomandarilor
+Auditul proiectelor
+PAGINA 31
+Ciclul de viata al auditarii unui proiect - etape:
+Initiere
+Definirea standardelor
+Stabilirea unei baze de date a auditarii
+Analiza preliminara a proiectului
+Pregatirea raportului
+Incheiere
+Auditul proiectelor
+PAGINA 32
+Concluzii
+Avand in vedere ca un proiect reprezinta in mod global un efort colectiv
+pentru a produce un serviciu/produs, procesele de monitorizare, control si de
+audit sunt necesare, fiecare avand un rol definitoriu pentru indeplinirea
+obiectivului final.
+Procesul de monitorizare are responsabilitatea de a colecta, inregistra datele
+si de a crea rapoarte ce vizeaza performanta proiectelor. Pentru a incepe
+implementarea acestui proces, trebuie sa avem in vedere raspunsuile unui set
+de intrebari, precum "De ce monitorizam?, Ce monitorizam?, Cand
+monitorizam?, Cum monitorizam?". Indata ce raspunsurile sunt colectate,
+faza de monitorizare a proiectului este una complexa si sustenabila.
+Procesul de control al proiectelor, se bazeaza pe partea de monitorizare. Aici
+se corecteaza abaterile de la planificarea initiala, ce au iesit in evidenta la
+monitorizare.
+In cele dein urma, auditarea proiectelor reprezinta ultima faza in ceea ce
+priveste definitivarea produsului final, aici are loc o examinare detaliata a
+managementului proiectelor, a procedurilor, a metodologiilor utilizate in pasii
+anteriori. Bugetul si gradul de atingere a obiectivelor propuse initial sunt de
+asemena auditate.
+Curs 11
+PAGINA1
+Management de
+proiect
+PAGINA 2
+Curs 11
+Managementul achizitiilor
+PAGINA 3
+Introducere în managementul
+de achizitii
+Ce reprezinta managementul achizitiilor?
+“Managementul achizitiilor de proiect include procesele necesare pentru
+achizitionarea de bunuri si servicii din afara organizatie
+Si executante, pentru a atinge domeniul de aplicare al proiectului.”
+- A Guide to the Project Management Body of Knowledge (PMBOKGuide), Year2020
+Edition
+PAGINA 4
+
+Contractul
+Pentru a realiza achiziția
+este necesar un contract.
+Acesta servește ca o
+intrare pentru multe dintre
+procesele din cadrul
+proiectului și precizează
+regulile și acordurile
+pentru acesta.
+PAGINA 5
+Definiții (1)
+Achiziție
+Aprovizionare
+Cumpărare
+Lanț de aprovizionare
+activitățile prin care firmele își procură produsele,
+serviciile, capabilitățile, cunoștințele necesare pentru
+funcționarea în cele mai favorabile condiții
+PAGINA 6
+Definitii(2)
+Contractul conține intrările, cum ar fi
+livrabile majore, cheie repere și obiective de
+cost. Sau poate limita echipa de proiect
+opțiuni (de exemplu, aprobarea de către
+cumpărător a deciziilor privind personalul)
+Contractul, mai presus de orice,
+precizează regulile și acordurile pentru
+proiect.
+PAGINA 7
+Definitii(3)
+Managementul achizițiilor:
+Planificare
+Gestionare
+Control
+Închidere
+PAGINA 8
+PAGINA 9
+Planificarea achizițiilor (1)
+Planificarea achizițiilor identifică ce nevoi
+ale proiectului pot fi satisfăcute cel mai bine
+prin achiziționarea de produse și servicii din
+afara organizației proiectului, față de cele care
+pot fi îndeplinite de echipa de proiect.
+Totodată, implică luarea în considerare dacă să
+achiziționați, cum să achiziționați, ce să
+achiziționați, cât să achiziționați și când să
+achiziționați.
+PAGINA 10
+Planificarea achizițiilor (2)
+PAGINA 11
+Planificarea achizițiilor (3)
+Modalități de achiziție:
+Licitația deschisă
+Licitația restrânsă
+Dialogul competitiv
+Parteneriatul pentru inovare
+Negocierea fără publicare prealabilă
+Concursul de solutii
+Procedura simplificat
+PAGINA 12
+Managementul achizițiilor
+”Make” sau ”buy” ?
+Vă gândiți dacă să cumpărați sau să realizați un produs software:
+dacă cumpărați, costul este de 80.000 USD, iar costul achiziției
+și integrării în compania dvs. este de 1.000 USD. Dacă doriți să
+îl faceți singur, produsul va necesita șapte ingineri software care
+lucrează trei luni. Salariul fiecărui inginer software este de 4.000
+USD pe lună. Costurile generale alocate proiectuluivor fi de
+2.000 USD. Ce opțiune veți alege - să faceți sau săcumpărați?
+Răspuns:
+Dacă cumpărați, costul va fi: 80.000 USD + 1.000 US
+D =81.000 USD
+Dacă faceți, costul va fi: 4.000 USD x 7 x 3 + 2.00
+0 USD =86.000 USD
+Deci, este mai bine să cumperi.
+PAGINA 13
+Controlul achizițiilor
+Este un proces care constă în
+gestionarea relațiilor de achiziții ale
+proiectului.
+Presupune monitorizarea executării
+contractului, precum și efectuarea
+modificărilor și corecțiilor necesare.
+Acest proces există pentru a se asigura
+că toate părțile contractate își îndeplinesc
+obligațiile contractuale.
+PAGINA 14
+Închiderea procesului de achizitie
+- Scenariul 1: ambele parti sunt multumite, s-au
+respectat toate specificatiile și prevederile
+contractului;
+- Scenariul 2: rezilierea contractului fără motiv
+legal
+- Scenariul 3: rezilierea contractului din
+comoditate
+- Scenariul 4: prevederea rezilierii contractului
+prin notificare de către una dintre părți
+Scenarii posibile de închidere a procesului de achi
+ziție:
+„ It ain't over till it’s over”
+- Yogi Berra, manager of New York Yankees
+PAGINA 15
+Studiu de caz
+A. Date informatice
+Autoritatea contractantă: Agenția Națională de Administrare
+Fiscală
+Obiectul achiziției publice: Furnizare bonuri cadou de
+Crăciun
+Procedura de atribuire aplicată: Licitație deschisă
+Scopul procedurii de atribuire: Încheierea unui acord-cadru
+B. Etapele proiectului
+Procesul de achiziție publică constă într-o succesiune de
+etape în urma cărora se obține produsul sau dreptul de utilizare al
+acestuia, ca urmare a atribuirii unui contract de achiziție publi
+că.
+PAGINA 16
+Concluzii
+Managementul achizițiilor include toate activitățile
+necesare pentru gestionarea relațiilor cu furnizorii într-o 
+măsură care să permită atingerea obiectivelor generale
+ale firmei.
+În cadrul managementului achizițiilor se identifică
+următoarele etape, și anume: Planificarea achiziții
+lor;
+Gestionarea achizițiilor; Controlul achizițiilor; Finalizarea
+achizițiilor;
+Există numeroase proceduri de atribuire: licitație
+deschisă, licitație restrânsă, dialog competitiv, parteneriat
+pentru inovare, etc.
+Procesul de control al achizițiilor implică controlul
+schimbărilor, revizuirea performanței achizițiilor,
+audituri,rapoarte, sisteme de plată, reclamații și gestionarea
+înregistrărilor.
+Încheierea achizițiilor se adresează fiecărui contract
+aplicabil proiectului sau unei etape de proiect.
+CURS 12
+PAGINA 1
+Management de
+proiect
+PAGINA 2
+Curs 12
+Matricea Cadru Logic
+(MCL)
+PAGINA 3
+Ce este MCL ?
+Este o procedura de planificare sistematica inclusa in
+complete project cycle management
+Este o metoda de rezolvare a problemelor de management
+ce tine cont de viziunea tuturor persoanelor interesate
+(stakeholders)
+Stabileste modalitatile de finalizare cu succes a proiectului
+in raport cu ipotezele de baza.
+PAGINA 4
+Ce este MCL ?
+Este o metoda de prezentare a continutului unui 
+proiect intr-un mod in care este posibila stabilirea
+logica si sistematica a obiectivelor proiectului.
+Aceasta este reflectata in relatiile cauzale intre
+diferitele niveluri ale obiectivelor,pentru a putea
+verifica daca aceste obiective au fost indeplinite
+si pentru a stabili ce ipoteze(factori),din afara
+controlului proiectului, pot influenta succesul său.
+PAGINA 5
+Istoria MCL
+A fost dezvoltata ca raspuns la necesitatile
+de planificare / monitorizare a proiectelor
+de dezvoltare
+Prima MCL a fost dezvoltata pentru USAID
+la sfarsitul anilor '60.
+PAGINA 6
+Matricea cadru logic
+Logica
+interventiei
+Indicatori
+verificabili in
+mod obiectiv
+Surse și mijloace de
+verificare
+Ipoteze
+Obiectiv(e)
+general(e)
+Obiectiv specific
+(Scopul
+proiectului)
+Rezultate
+Activitati
+Mijloace
+Costuri
+Preconditii
+PAGINA 7
+Definirea termenilor
+Obiective generale-explica in ce fel
+proiectul poate fi importat pentru grupul tinta.
+Obiective specifice(scopul proiectului):
+sunt obiective ce trebuiesc atinse prin
+implementarea proiectului.Scopul trebuie 
+definit in termeni de beneficii sustenabile
+pentru grupurile tinta.
+PAGINA 8
+Definirea termenilor
+Rezultate: sunt "produse" obtinute ca urmare a 
+desfasurarii activitatilor definite in cadrul proiectului.
+Activitati:Actiunile specifice ce trebuiesc intreprinse 
+pentru a produce rezultate.
+Mijloace:Resurse(intrari) materiale/non-materiale
+necesare pentrur buna desfasurare a activitatilor(i.e.
+resurse umane si materiale)
+Costuri:Costurile sunt date de echivalare financiara a 
+resurselor identificate
+PAGINA 9
+Definirea termenilor
+Indicatori verificabili în mod obiectiv:
+descrierea operatională a obiectivelor generale,
+scopului proiectului şi a rezultatelor.
+Surse şi mijloace de verificare:arată unde
+şi sub ce formă pot fi găsite informaţiile privind
+realizarea obiectivelor generale, a scopului
+proiectului şi a rezultatelor.
+PAGINA 10
+Definireatermenilor
+Ipoteze : sunt acei factori externi (condiţii)
+care nu sunt influenţaţi de proiect, dar care pot
+afecta implementarea sa şi sustenbilitatea pe
+termen lung. Aceste condiţii trebuie îndeplinite
+pentru ca proiectul să poată reuşi.
+Precondiţii : Condiţii care trebuie îndeplinite
+înainte ca proiectul să înceapă.
+PAGINA 11
+Cum functioneaza MCL?
+I.Logica verticala(relatia intre coloanele I şi
+IV):
+- identifica obiectivele (col. I) proiectului
+- clarifica relatia cauzala intre diferitele niveluri
+ale obiectivelor / logica interventiei proiectului
+(col. I)
+- specifica principalele ipoteze si incertitudinile
+in afara posibilitatilor de control a directorului
+de proiect (col. IV);
+PAGINA 12
+Cum functioneaza MCL?
+II. Logica orizontala, se refera la evaluarea
+efectelor proiectului si a resurselor folosite de
+proiect, prin:
+- specificarea indicatorilor cheie (col. II)
+- sursele de informare prin care acesti indicatori
+pot fi controlati (col. III).
+III. Logica verticală:
+Coloana I (logica interventiei): Stabileste
+politica strategica a implementarii proiectului,
+i.e. nivelul obiectivelor, relaţia si ierarhia dintre
+ele
+PAGINA 13
+Cum functioneaza MCL?
+Management
+scop
+Impact
+Monitorizare
+Scop
+Iesiri
+Produse
+Activitati
+PAGINA 14
+Cum functioneaza MCL?
+Interventia:prin folosirea mijloacelor materiale / nemateriale,
+se vorimplementa activitatile si se vor genera rezultatele. Suma (vectoriala
+a) acestor rezultate va duce la atingerea scopului
+proiectului, care va contribui la indeplinirea obiectivelor generale.
+Coloana IV ( Ipoteze si riscuri):
+Factorii externi au o influenta importanta asupra finalizarii in bune
+conditiuni a proiectului.
+La fiecare nivel al matricei vor fi incluse, acele ipoteze ce reprezinta
+incertitudini, condiţii sau riscuri pentru atingerea obiectivului
+proiectului (aferent liniei).
+Observatie: In cazul in care probabilitatea riscului este redusa, acesta nu
+se va mai include in MCL, deoarece nu va afecta implementarea
+proiectului
+PAGINA 15
+Cum functioneaza MCL?
+In cazul in care probabilitatea aferenta unui tip
+de risc este ridicata, riscul trebuie inclus, dar
+se impune revizuirea proiectului (dpdv
+strategic)
+vor fi incluse in MCL numai acele ipoteze/riscuri
+cu o probabilitate medie de indeplinire.
+PAGINA 16
+Corelari logice
+Iesiri
+Impact
+Rezultate
+Activitati
+Ipoteze
+Ipoteze
+Ipoteze
+Pre-conditii
+PAGINA 17
+Corelari logice
+daca preconditiile sunt indeplinite, atunci activitatile
+proiectului pot sa inceapa.
+daca activitatile s’au desfasurat si ipotezele de pe liniaIV, coloana IV, sunt indeplinite, atunci pot fi obtinute
+rezultatele proiectului;
+daca rezultatele proiectului sunt obtinute si ipotezele
+de pe linia III , coloana IV sunt indeplinite, atunci
+poate fi atins scopul proiectului;
+daca scopul proiectului este atins si ipotezele de
+pe linia II coloana IV sunt indeplinite, proiectul poa
+te contribui la atingerea obiectivelor generale.
+PAGINA 18
+Corelari logice
+Logica orizontala:
+Coloana II : Indicatorii de realizare,
+verificabili în mod obiectiv.
+Indicatorii permit verificarea şi masurarea
+gradului in care nivelul corespunzator al logicii
+interventiei (col.I) a fost sau va fi realizat.
+prima linie va contine indicatorii de impact general
+a doua linie va contine indicatorii de impact specific;
+a treia linie va contine indicatorii de rezultate
+PAGINA 19
+Criterii de selectie a indicatorilor
+Validitate: reflecta in mod direct obiectivul pe
+care intentioneaza sa il masoare?
+Obiectivitate: Definesc precis şi fara ambiguitati
+obiectivul pe care il masoara?
+Credibilitate: Sunt datele consecvente sau
+comparabile în timp ?
+Accesibilitate: Pot fi datele colectate cu uşurinta,
+la timp si cu costuri rezonabile?
+Utilitate: Vor fi datele utile pentru luarea
+deciziilor sau pentru a invata din experienta?
+Proprietate: Sunt de acord partenerii si partile
+interesate ca indicatorul are sens si utilitate pentru
+ei?
+PAGINA 20
+SMART
+S- Specific
+M- Measurable
+A- Achievable
+R- Relevant
+T- Timed
+PAGINA 21
+SMART
+Specific- in termeni de calitate, cantitate si
+termene;
+Measurable- masurabili la un cost acceptabil;
+Available- disponibili din sursele existente;
+Relevant- pentru ceea ce intenţioneaza sa masoare
+si corespunzator cu nivelul obiectivelor din
+interventia logica;
+Timely-produsi in momentul cand sunt necesari,
+pentru a putea fi utili managementului de proiect.
+PAGINA 22
+Corelari logice
+Coloana III: Surse şi mijloace de verificare.
+Aici trebuie specificat, unde, în ce formă şi cât
+de des pot fi găsite sau 
+furnizate informaţiile
+privind gradul de realizare a obiectivelor
+(descris prin indicatorii verificabili în mod
+obiectiv).
+PAGINA 23
+Cum lucreaza MCL
+Obiectiv
+global
+Logica Indicatori Metode de verificare
+Ipoteze / Riscuri
+Obiectiv
+specific
+Iesiri / rezultate
+Activitati
+Intrari
+Pre-Conditii
+PAGINA 24
+Verificare finala a MCL
+Dupa completare, in cadrul MCL se verifica
+urmatoarele elemente:
+logica verticala este completa / corecta;
+indicatorii si sursele de verificare sunt credibile;
+ipotezele sunt realiste si complete;
+riscurile sunt acceptabile;
+probabilitatea succesului este suficient de
+mare;
+Costurile sunt justificate prin beneficii
+PAGINA 25
+Elemente principale ale ML
+Intervention Logic
+Scop
+Obiectivele de nivel inalt in raport cu care proiectul isi va aduce propriile
+contributii (cu mentionarea grupului tinta)
+Obiective
+Elementele finale ce trebuiesc indeplinite ca rezultat a
+implementarii
+proiectului.
+Iesiri
+Rezultatele pe care managementul proiectului trebuie sa
+le garanteze (in raport cu grupul tinta)
+Activitati
+Activitatile ce trebuiesc desfasurate in timpul proiectu
+lui pentru a obtine iesirile dorite.
+PAGINA 26
+Intrari
+Activitati
+Iesiri
+Obiective
+Scop
+Control al PjM
+In afara controlului
+PjM
+PAGINA 27
+Elemente cheie ale ML
+Assumptions and Preconditions
+
+Ipoteze
+Evenimente, conditii si decizii, in afara controlului
+proiectului, in raport cu care este definitscopul.
+Evenimente, conditii si decizii, in afara controlului
+proiectului, necesare pentru atingerea obiectivelor.
+Evenimente, conditii si decizii, in afara controlului
+proiectului, necesare pentru obtinerea iesirilor.
+Evenimente, conditii si decizii, in afara controlului
+proiectului, necesare pentru startul proiectului.
+PAGINA 28
+Elemente cheie ale ML
+Scop
+Sursa de date necesare verificarii nivelului de indeplinire a
+indicatorilor de scop.
+Obiectiv
+Sursa de date necesare verificarii nivelului de indeplinire a
+indicatorilor de obiectiv.
+Iesiri
+Sursa de date necesare verificarii nivelului de indeplinire a 
+indicatorilor de iesire.
+Activitati
+Sursa de date necesare verificarii nivelului de indeplinire a
+indicatorilor de activitate.
+
+PAGINA 29
+Indicatori
+Indicatorii trebuie sa fie valizi, consistenti, precisi si
+masurabili independent de alte nivele de realizare.
+Indicatori trebuie sa puna in evidenta in mod clar in
+ce fel grupurile tinta beneficiaza de realizarea
+marimilor de iesire.
+Interpretarea indicatorilor:
+Calitate (= ce?)
+Cantitate (= cat?)
+Timp(= cand, cat timp?)
+Grup tinta (= cine?)
+Loc (= unde?)
+PAGINA 30
+Indicatori
+Procesul de definire a indicatorilor conduce la
+clarificarea obiectivelor
+indicatorii trebuie sa
+fie:
+a.Plauzibil: sa masoare ce este important in proiect
+b. Atribuibil: sa masoare modificarile produse prin implementarea
+proiectului.
+c. Lucrativ: sa permita colectarea si prelucrarea datelor cu costuri
+minime
+d. Independent: nu are nici o legatura (i.e. nu este influentat) cu
+proiectul
+e. Tintit: cat..., ce fel de..., de catre cine...
+f. Verificabil: poate fi inteles in raport cu decizia
+PAGINA 31
+Utilizarea indicatorilor
+Categorie
+Produse
+Impact
+Iesiri
+Activitati
+XXXX
+Indicatori
+MdV
+XXXX
+Evaluare
+Monitorizare
+PAGINA 32
+Elemente cheie ale ML
+Permite o intelegere mai buna a asteptarilor in raport cu un
+proiect prin stabilirea unei ierarhii de obiective;
+Defineste indicatorii de succes si stabileste o procedura de
+monitorizare a acestora;
+Defineste ipotezele (critice) in raport cu care se strctureaza
+proiectul;
+Defineste modalitati de verificare a gradului de indeplinire a
+performantelor proiectului.
+PAGINA 33
+Elemente cheie ale ML
+Un instrument de planificare, revizuire, monitorizare si
+evaluare a unui proiect
+Logica Verticala
+Scop
+Obiective
+Iesiri
+Activitati
+PAGINA 34
+Elemente cheie ale ML
+Logica orizontala
+Indeplinirea obiectivelor se masoara cu ajutorul
+unor indicatori determinati pe baza
+informatiilor colectate pe un acelasi nivel.
+PAGINA 35
+Elemente cheie ale ML
+SCOP
+IPOTEZE
+ACTIVITATI
+IESIRI
+PAGINA 36
+Ipoteze si riscuri
+Ipotezele si riscurile reprezinta conditii externe, i.e.se afla in
+afara posibilitatilor de control aloe managementului de proiect.
+In plus, indeplinirea obiectivelor depinde de materializarea
+ipotezelor si de ne-materializarea riscurilor.
+Daca efectul si cauza reprezinta principil de baza al pro
+iectarii unei bune gestiuni de proiect, conditiile necesare si suficiente
+reprezinta corolarul acesteia.
+Astfel, conditiile necesare si suficiente de finalizare
+in bune conditii a unui proiect reprezinta ipotezele, i.e. logi
+ca externa a proiectului
+PAGINA 37
+Ipoteze si riscuri MCL
+are rolul de a explicita toate ipotezele si riscurile aferente unui proiect.
+Implicit, orice actiune (preventiva) in cadrul
+proiectului trebuie facuta inainte de
+materializarea unui risc:
+Cat de importante sunt ipotezele
+Cat de mari sunt riscurile
+Trbuie reproiectat MP?
+Trebuiesc abandonate anumite cai de implementare?
+PAGINA 38
+Etapele dezvoltarii ML
+1. Analiza contextului proiectului
+2. Analiza grupului de
+stakeholders
+3. Analiza de problema
+4. Analiza obiectivelor
+5. Planificarea activitatilor
+6. Planificarea resurselor / intrarilor
+7. Definirea indicatorilor / metodelor de verificare
+8. Analiza de risc
+9. Analiza ipotezelor
+PAGINA 39
+
+Utilizarea ML
+Un instrument de planificare a activitatilor
+Un instrument de evaluare a implementarii
+proiectului
+Un sumar al MP
+Un instrument de evaluare a impactului
+rezultatelor, i.e. progresul indeplinirii obiectivelor.
+PAGINA 40
+Utilizarea ML
+Categorie
+Iesiri
+Impact
+Produse
+Ce se finalizeaza
+Intrari
+Activitati
+Ce se obtine
+Ce se obtine
+Ce se executa
+Ce se investeste
+Descriere
+Semnificatie
+Beneficiile / realizarile
+grupului
+Elemente masurabile
+utilizate de grupul tinta
+Produse / servicii
+Activitati desfasurate
+Resurse umane / materiale
+/ financiare
+PAGINA 41
+Utilizarea ML
+Iesiri
+(Efect pe termen scurt)
+Impact
+( Efect pe termen lung)
+Indicatori
+Obiective proiect
+Produse
+(Produse / servicii
+realizate prin proiect)
+Obiective
+globale
+Obiective
+specifice
+Obiective
+operationale
+PAGINA 42
+Concluzii
+Aduce împreună într’un singur loc o formulare a tuturor
+componentelor cheie ale proiectului / programului .
+Îndeplineşte cerinţele unei bune concepţii de proiect şi
+asigură răspuns la punctele slabe din trecut.
+Anticipeaza implementarea.
+Fixează un cadru pentru activităţile de monitorizare şi
+evaluare planificate, iar rezultatele actuale pot fi
+comparate.
+Ajută la comunicarea dintre stakeholderi
